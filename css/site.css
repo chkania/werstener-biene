@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "Brawler";
+  src: local("☺"),
+    url("/fonts/Brawler.otf") format("opentype");
+  }
+
+@font-face {
+  font-family: "Linux Libertine";
+  src: local("☺"),
+    url("/fonts/LinLibertine_R.woff") format("woff");
+  }
+
+@font-face {
+  font-family: "Linux Libertine";
+  src: local("☺"),
+    url("/fonts/LinLibertine_RB.woff") format("woff");
+    font-weight: bold;
+  }
+
+@font-face {
+  font-family: "Linux Libertine";
+  src: local("☺"),
+    url("/fonts/LinLibertine_RBI.woff") format("woff");
+    font-weight: bold;
+    font-style: italic;
+  }
+
+@font-face {
+  font-family: "Linux Libertine";
+  src: local("☺"),
+    url("/fonts/LinLibertine_RI.woff") format("woff");
+    font-style: italic;
+  }
+
+html,
+body {
+  font-family: Linux Libertine, serif;
+  font-size: 100%;
+  }
+
+body {
+  line-height: 1.5em;
+  margin-bottom: -150px;
+}
+
+.imagecenter  {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
+  border: 1px solid black;
+  margin: auto;
+  background-color: #D8D8D8;
+}
+
+.imageleft  {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
+  float: left;
+  margin-right: 20px;
+}
+
+.imageright  {
+  font-size: 0.8em;
+  font-style: italic;
+  text-align: center;
+  float: right;
+  margin-left: 20px;
+}
+
+#content a:not(.footnote), #related-posts a:link  {
+    padding-right: 12px;
+    background: transparent url(/images/site/link.png) no-repeat center right;
+}
+
+#content a.reversefootnote {
+    background: none;
+    padding-right: none;
+}
+
+blockquote {
+    font-size: inherit;
+}
+
+.navbar-form .form-control {
+  width: 100px;
+}
+
+
+.with-transition:focus {
+  width: 300px;
+  transition-property: width;
+  transition-duration: 1s;
+  transition-delay: initial;
+  transition-timing-function: ease-in-out;
+}
+
+@media print {
+    nav {
+      display: none;
+    }
+      .breadcrumb {
+      display: none;
+    }
+}
+
+@media screen {
+  .printsource {
+    display: none;
+  }
+}
