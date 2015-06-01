@@ -1,0 +1,136 @@
+	<!DOCTYPE html>
+<html>
+  <head>
+    <title>Christoph Kanaia</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<?php if (isset($_POST['return_url']))
+	{
+		$return_url = $_POST['return_url'];
+		$return_delay = 5; //Number of seconds to linger on this page before redirecting back to the static site
+		echo "<meta http-equiv=\"refresh\" content=\"$return_delay;url='$return_url'\" />";
+	} ?>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <meta name="application-name" content="Christoph Kania"/>
+    <meta name="msapplication-tooltip" content="My braindump about technology and live"/>
+    <meta name="msapplication-starturl" content="http://chkania.net/"/>
+    <meta name="apple-mobile-web-app-title" content="Christoph Kania" />
+
+    <meta property="og:site_name" content="Christoph Kania" />
+	<meta property="og:url" content="{{site.url}}{{page.url}}" />
+	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@chkania" />
+    <meta name="author" content="Christoph Kania" />
+    <meta name="generator" content="jekyll" />
+  	<meta name="msvalidate.01" content="805CC1F66CC6EE16120AE166F013C45D" />
+    <link rel="publisher" href="https://plus.google.com/113023143167701578591/" />
+
+    <!-- Bootstrap -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+    <link href="/bootstrap/css/bootstrap-responsive.css" rel="stylesheet" media="screen">
+	<link rel="stylesheet" href="/css/site.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<link href='https://fonts.googleapis.com/css?family=Merriweather:300,400|Open+Sans:400italic,600,400' rel='stylesheet' type='text/css'>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		(function() {
+		    var s = document.createElement('script');
+		    var t = document.getElementsByTagName('script')[0];
+
+		    s.type = 'text/javascript';
+		    s.async = true;
+				s.src = '//api.flattr.com/js/0.6/load.js?'+
+				        'mode=auto&uid=ckskyb&&category=text&bottom=compact';
+
+		    t.parentNode.insertBefore(s, t);
+		 })();
+		/* ]]> */
+		</script>
+    <link rel="alternate" type="application/rss+xml" title="Christoph Kania" href="http://feeds.uri.lv/chkania" />
+  </head>
+  <body>
+			<h1  id="banner">&nbsp;Christoph Kania <small>braindump</small></h1>
+		<nav class="navbar navbar-default" role="navigation">
+
+		  <!-- Brand and toggle get grouped for better mobile display -->
+		  <div class="navbar-header">
+		    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+		      <span class="sr-only">Toggle navigation</span>
+		      <span class="icon-bar"></span>
+		      <span class="icon-bar"></span>
+		      <span class="icon-bar"></span>
+		    </button>
+		    <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-home"></span> Home</a>
+		  </div>
+
+		  <!-- Collect the nav links, forms, and other content for toggling -->
+		  <div class="collapse navbar-collapse navbar-ex1-collapse">
+		    <ul class="nav navbar-nav">
+		      <li><a  href="/tech"><span class="glyphicon glyphicon-wrench"></span> Tech-Blog</a></li>
+		      <li><a href="/live"><span class="glyphicon glyphicon-globe"></span> Live-Blog</a></li>
+		      <li><a href="/running"><span class="glyphicon glyphicon-road"></span> Lauf-Blog</a></li>
+		      <li><a href="/photos/PhotoStream"><span class="glyphicon glyphicon-picture"></span> Photostream</a></li>
+		    </ul>
+		    <ul class="nav navbar-nav navbar-right">
+		      <li><a href="/info/about"><span class="glyphicon glyphicon-info-sign"></span> Impressum</a></li>
+		      <li class="dropdown">
+		        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-share"></span> Follow me <b class="caret"></b></a>
+		        <ul class="dropdown-menu">
+		          <li><a target="_blank" href="https://twitter.com/chkania">chkania on Twitter</a></li>
+		          <li><a target="_blank" href="https://alpha.app.net/chkania">chkania on ADN</a></li>
+		          <li><a target="_blank" href="http://de.linkedin.com/in/christophkania">on LinkedIn</a></li>
+		          <li><a target="_blank" href="http://www.xing.com/profile/Christoph_Kania">on Xing</a></li>
+		          <li><a target="_blank" href="https://plus.google.com/113023143167701578591?rel=author">on Google+</a></li>
+						</ul>
+		      </li>
+		    </ul>
+		  </div><!-- /.navbar-collapse -->
+		</nav>
+		  	<div class="row">
+		    	<div class="col-md-12">
+						<p/>
+		      	<!--Body content-->
+						<div class="container">
+							<h1>Comment Received</h1>
+								<p><div class="alert alert-danger">There was a problem with sending your comment. Please try again later.</div></p>
+								<?php if (isset($return_url))
+								{
+									echo "<p>You are now returning to the page you were on. Click the link if you are not redirected automatically.<br/>$errorMessage</p>";
+
+									echo '<p><a href="'.$return_url.'">'.$return_url.'</a></p>';
+								} ?>
+
+					</div>
+		    	</div>
+
+		  	</div>
+
+		  	<div class="row">
+					<div class="navbar col-md-12">
+			  	<div class="navbar-inner" id="footer">
+									<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work by <a xmlns:cc="http://creativecommons.org/ns#" href="{{site.url}}" property="cc:attributionName" rel="cc:attributionURL">Christoph Kania</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+					</div>
+				</div>
+		  	</div>
+		</div>
+
+
+
+   <script src="http://code.jquery.com/jquery-latest.js"></script>
+   <script src="/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37467210-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+  </body>
+</html>
