@@ -126,16 +126,18 @@ blockquote {
 }
 
 @media print {
-    nav {
-      display: none;
-    }
-      .breadcrumb {
-      display: none;
-    }
-
-    #readingtime {
-      display: none;
-    }
+  nav {
+    display: none;
+  }
+  .breadcrumb {
+    display: none;
+  }
+  #readingtime {
+    display: none;
+  }
+  .hideinprint {
+    display: none;
+  }
 }
 
 @media screen {
