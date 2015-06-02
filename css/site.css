@@ -34,17 +34,22 @@
 
 html,
 body {
-  font-family: Linux Libertine, serif;
-  font-size: 100%;
+  font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
+  /* font-family: Linux Libertine, serif; */
+  font-weight: 300;
+  rgb(74, 74, 74);
+  font-size: 17px;
+  text-rendering: optimizeLegibility;
+  /* text-rendering: geometricPrecision */
+  line-height: 1.5em;
   }
 
-body {
-  line-height: 1.5em;
-  margin-bottom: -150px;
-}
+/* h1, h2, h3, h4, h5 {
+  font-family: Linux Libertine, serif;
+} */
 
 .imagecenter  {
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-style: italic;
   text-align: center;
   border: 1px solid black;
@@ -53,7 +58,7 @@ body {
 }
 
 .imageleft  {
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-style: italic;
   text-align: center;
   float: left;
@@ -61,21 +66,30 @@ body {
 }
 
 .imageright  {
-  font-size: 0.8em;
+  font-size: 0.7em;
   font-style: italic;
   text-align: center;
   float: right;
   margin-left: 20px;
 }
 
-#content a:not(.footnote), #related-posts a:link  {
+#content a:not(.nolinkicon)  {
     padding-right: 12px;
     background: transparent url(/images/site/link.png) no-repeat center right;
 }
 
-#content a.reversefootnote {
+/* #content a.reversefootnote {
     background: none;
     padding-right: none;
+}  */
+
+
+#readingtime {
+  font-size: 0.7em;
+}
+
+.printbutton{
+  font-size: inherit;
 }
 
 blockquote {
@@ -100,6 +114,10 @@ blockquote {
       display: none;
     }
       .breadcrumb {
+      display: none;
+    }
+
+    #readingtime {
       display: none;
     }
 }
