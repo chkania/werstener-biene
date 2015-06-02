@@ -25,7 +25,7 @@ Nicht jeder aber hat die Telefonnummer eines Imkers parat, der den Schwarm einfa
 
 Ein Bienenschwarm ist in den seltesten Fällen ein Notfall. Es eilt also nicht allzusehr und man hat genügend Zeit, einen Imker zu informieren. Um Schwarmfinder und -fänger zusammen zu bringen, wurde die [Schwarmbörse](http://www.schwarmboerse.de) ins Leben gerufen. Hier können Sie unter Angabe des Fundortes den Schwarmfund kostenlos melden. Sie erhalten dann eine E-Mail mit Telefonnummern von Imkern in der Umgebung, die sich als Schwarmfänger registriert haben (aktuell 3.778 – Stand 02.06.15), und können diese direkt kontaktieren.
 
-<div class="imageright" style="max-width:420px;"><iframe width="420" height="315" src="https://www.youtube.com/embed/cwBGzSa2Wgc" frameborder="0" allowfullscreen></iframe></div>
+<div class="imageright hideinprint" style="max-width:420px;"><iframe width="420" height="315" src="https://www.youtube.com/embed/cwBGzSa2Wgc" frameborder="0" allowfullscreen></iframe></div>
 Bevor Sie einen Bienenschwarm melden, sollten Sie sicherstellen, dass es sich auch um Bienen handelt (Quelle: [Schwarmbörse](http://www.schwarmboerse.de/schwarm/schwarm.melden/index.html#bienen)):
 
 > Sichere Kennzeichen eines Bienenschwarmes
