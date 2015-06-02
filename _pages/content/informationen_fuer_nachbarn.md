@@ -2,6 +2,7 @@
 layout: default
 title: Informationen für Nachbarn
 nolicense: false
+readingtime: true
 ---
 
 Bienen in Nachbars Garten führen immer wieder zu Verunsicherung:
@@ -15,7 +16,7 @@ Dies ist eine Information, die sich direkt an meine Nachbarn richtet. Sie gilt a
 ## Bienenflug
 
 <div class="imageright" style="max-width:300px;"><img class="img-responsive img-rounded" src="/images/content/BieneKirschbluete.jpg" alt="Biene auf einer Kirschblüte" />Biene auf einer Kirschblüte<br/><a class="text-muted"  href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> <a class="text-muted" href="https://flic.kr/p/riTBnU">flickr</a></div>
-Viele Nachbarn werde wahrscheinlich gar nicht bemerken, dass hinterm Gartenzaun Bienenstöcke stehen. Denn Bienen suchen gezielt nach so genannten Massentrachten. Das heißt, dass eine Ansammlung von Apfelbäumen, eine Wiese mit vielen Wildblumen, die Baumallee oder auch ein Rapsfeld viel attraktiver sind als die – meist viel zu wenigen – nektar- und pollenspendenden Pflanzen nebenan. Dabei legen sie auf der Suche nach Nahrung Strecken von bis zu drei Kilometern zurück.
+Viele Nachbarn werden wahrscheinlich gar nicht bemerken, dass hinterm Gartenzaun Bienenstöcke stehen. Denn Bienen suchen gezielt nach so genannten Massentrachten. Das heißt, dass eine Ansammlung von Apfelbäumen, eine Wiese mit vielen Wildblumen, die Baumallee oder auch ein Rapsfeld viel attraktiver sind als die – meist viel zu wenigen – nektar- und pollenspendenden Pflanzen nebenan. Dabei legen sie auf der Suche nach Nahrung Strecken von bis zu drei Kilometern zurück.
 
 Wir haben unsere Bienen bewusst so aufgestellt, dass sie gezwungen sind, sich unmittelbar nach dem Verlassen des Bienenstocks (Imker nennen die Bienen-Behausung auch „Beute“) in luftige Höhe zu schwingen. Sie fliegen also weit oberhalb unserer Köpfe und finden so schnell den Weg z.B. in die vielen Obstbäume, die sich in den Gärten rund um unser Haus befinden.
 
@@ -46,7 +47,7 @@ Wenn man sich manche Leserbriefe oder Reaktionen in Internetforen anschaut, gewi
 
 <div class="imageleft" style="max-width:300px;"><img class="img-responsive img-rounded" src="/images/content/ImkermitWabe.jpg" alt="Imker mit Wabe" />Imker bei der Arbeit – mit bloßen Händen<br/><a class="text-muted"  href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a> <a class="text-muted" href="https://flic.kr/p/4X6eVH">flickr</a></div>In den letzten Jahrzehnten haben sich nicht nur die Imker verjüngt. Die Bienen wurden auch ganz gezielt auf Sanftmut hin gezüchtet. Daher ist es heute möglich, weitestgehend ohne Schutz an den Bienenstöcken zu arbeiten. Lediglich bei bestimmten Wetterlagen und sehr extremen Eingriffen in das Bienennest kann es sein, dass die Nektarsammlerinnen unfreundlich reagieren.
 
-Keinesfalls aber müssen Imker-Nachbarn befürchten, dass sie auf der Terrasse von Bienen angefallen werden. Es kann höchstens einmal sein, dass ein Bienenschwarm eine Beute verlässt und sich an einem Zweig niederlässt. Diese Menge an Bienen ist zwar beeindrucken, aber ebenfalls nicht gefährlich. Im Gegenteil: Diese Bienen sind extrem friedlich, da sie kein Nest zu verteidigen haben. Was Sie tun sollten, wenn Sie einen Bienenschwarm finden, lesen Sie im Artikel [„Schwarm gefunden – was tun“](/content/schwarm_gefunden_was_tun.html).
+Keinesfalls aber müssen Imker-Nachbarn befürchten, dass sie auf der Terrasse von Bienen angefallen werden. Es kann höchstens einmal sein, dass ein Bienenschwarm eine Beute verlässt und sich an einem Zweig niederlässt. Diese Menge an Bienen ist zwar beeindrucken, aber ebenfalls nicht gefährlich. Im Gegenteil: Diese Bienen sind extrem friedlich, da sie kein Nest zu verteidigen haben. Was Sie tun sollten, wenn Sie einen Bienenschwarm finden, lesen Sie im Artikel [„Schwarm gefunden – was tun“](/content/schwarm_gefunden_was_tun.html){: class="nolinkicon"}.
 
 ## Die rechtliche Situation
 

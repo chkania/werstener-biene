@@ -25,7 +25,18 @@
         </div>
         <!-- /.row -->
 
+
         <div id="content">
+            <div class="row" id="readingtime">
+                <div class="col-xs-6 col-xs-offset-6">
+                    {% if page.readingtime != false or !page.noreadingtime %}
+                    <div class="pull-right text-muted"><i class="fa fa-fw fa-clock-o"></i> Durchschnittliche Lesezeit: {{ page.content | reading_time }}<br/>
+                        {% endif %}
+                        <button class="btn btn-default btn-xs pull-right text-muted printbutton" onClick="window.print()"><div class="text-muted"><i class="fa fa-fw fa-print"></i>Diese Seite drucken</div></button>
+
+                    </div>
+                </div>
+            </div>
         {{ content }}
         </div>
 
