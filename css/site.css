@@ -55,6 +55,7 @@ body {
   border: 1px solid black;
   margin: auto;
   background-color: #D8D8D8;
+  line-height: 1.3em;
 }
 
 .imageleft  {
@@ -63,6 +64,7 @@ body {
   text-align: center;
   float: left;
   margin-right: 20px;
+  line-height: 1.3em;
 }
 
 .imageright  {
@@ -71,6 +73,7 @@ body {
   text-align: center;
   float: right;
   margin-left: 20px;
+  line-height: 1.3em;
 }
 
 #content a:not(.nolinkicon)  {
@@ -78,6 +81,15 @@ body {
     background: transparent url(/images/site/link.png) no-repeat center right;
 }
 
+footer a:not(.nolinkicon) {
+    padding-right: 12px;
+    background: transparent url(/images/site/link.png) no-repeat center right;
+
+}
+
+footer {
+ font-size: 0.7em;
+}
 /* #content a.reversefootnote {
     background: none;
     padding-right: none;
@@ -90,6 +102,10 @@ body {
 
 .printbutton{
   font-size: inherit;
+  float: right;
+
+  width: 400px;
+  margin-bottom: 20px;
 }
 
 blockquote {
