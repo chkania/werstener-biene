@@ -9,6 +9,7 @@ module ReadingTimeFilter
 		words_per_minute = 180
 		input = input.gsub(/\{% comment %\}.+?\{% endcomment %\}/m, '')
 		input = input.gsub(/\<!--.+?-->/m, '')
+		input = input.gsub(/(<[^>]*>)|\n|\t/m, '')
 		words = input.split.size;
 		minutes = ( words / words_per_minute ).floor
 		minutes_label = minutes === 1 ? " Minute" : " Minuten"
