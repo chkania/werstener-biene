@@ -26,6 +26,9 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 
 Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswertung der Besucherzugriffe. Piwik verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem Server des Anbieters in Deutschland gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können.
 
+<small>(übernommen von [spreerecht.de](http://rechtsanwalt-schwenke.de/piwik-als-alternative-zu-google-analytics-mit-datenschutzmuster/))</small>
+
+
 <iframe style="border: 0; height: 200px; width: 100%;" src="https://chkania.net/piwik/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
 
 {% comment %}
