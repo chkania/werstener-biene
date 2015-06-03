@@ -77,6 +77,6 @@ Haben Sie nicht auch das Gefühl, dass es heutzutage allgemein viel weniger Bien
 
 Konflikte entstehen im Wesentlichen durch falsche Informationen, weil Menschen Angst vor Stichen haben, teilweise Bienen mit Wespen verwechselt werden (Wespen verhalten sich u.U. völlig anders als Bienen), eventuell Verschmutzungen beim Reinigungsflug entstehen oder sich Schwärme auf dem Nachbargrundstück niederlassen. Daher habe ich versucht, hier für mehr Klarheit zu sorgen und Missverständnisse aus dem Weg zu räumen.
 
-Sollten dennoch Unklarheiten oder Bedenken bestehen, suchen Sie bitte immer zunächst das persönliche [Gespräch](/kontakt.html){: class="nolinkicon"}. Haben Sie Fragen oder möchten Sie sich einen Eindruck verschaffen: Kommen Sie vorbei. Honig gibt es aber leider erst im kommenden Jahr 2016.
+Sollten dennoch Unklarheiten oder Bedenken bestehen, suchen Sie bitte immer zunächst das persönliche [Gespräch](/legal/kontakt.html){: class="nolinkicon"}. Haben Sie Fragen oder möchten Sie sich einen Eindruck verschaffen: Kommen Sie vorbei. Honig gibt es aber leider erst im kommenden Jahr 2016.
 
 <img  class="img-responsive" style="max-width:300px" src="/images/content/signatur.png">
