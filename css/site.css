@@ -84,17 +84,11 @@ body {
 footer a:not(.nolinkicon) {
     padding-right: 12px;
     background: transparent url(/images/site/link.png) no-repeat center right;
-
 }
 
 footer {
  font-size: 0.7em;
 }
-/* #content a.reversefootnote {
-    background: none;
-    padding-right: none;
-}  */
-
 
 #readingtime {
   font-size: 0.7em;
