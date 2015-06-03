@@ -1,6 +1,7 @@
 #!/bin/bash
 cat asciibee.txt
 cd /home/skyb/werstener-biene
+echo
 echo "---------------------------------"
 echo "Aktualisiere aus git Repository …"
 git pull
