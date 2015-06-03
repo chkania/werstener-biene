@@ -3,6 +3,8 @@ layout: default
 title: Impressum
 nolicense: true
 readingtime: false
+printpage: false
+nosocial: true
 ---
 
 ## Angaben gemäß § 5 TMG:
