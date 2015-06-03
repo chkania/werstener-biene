@@ -1,21 +1,5 @@
 #!/bin/bash
-
-read -d '' bee <<-"_EOF_"
-  .--.               .--.
- /    `.   o   o   .'    \
- \      \   \ /   /      /
- /\_     \ .-"-. /     _/\
-(         V ^ ^ V         )
- \_      _| 9_9 |_      _/
-  `.    //\__o__/\\    .'
-    `._//\=======/\\_.'
-     /_/ /\=====/\ \_\
-       _// \===/ \\_
-      /_/_//`='\\_\_\   hjw
-        /_/     \_\
-_EOF_
-
-echo $bee
+cat asciibee.txt
 cd /home/skyb/werstener-biene
 echo "---------------------------------"
 echo "Aktualisiere aus git Repository …"
