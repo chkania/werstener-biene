@@ -27,7 +27,7 @@ Es gibt zwei Umstände, bei denen unsere Nachbarn eventuell die Bienen stärker 
 
 An sehr heißen und trockenen Tagen könnten sich die Bienen an den Rändern von Gartenteichen oder auch an Vogeltränken einfinden, um Wasser zu sammeln. Wir versuchen jedoch, dies zu vermeiden, indem wir selbst eine Bienentränke aufstellen. Haben sich die Bienen an diese gewöhnt, werden sie diese anderen (weiter entfernten) Wasserquellen vorziehen.
 
-Nach den langen Winterwochen müssen die Bienen ihre Kotblase leeren; sie vollziehen den so genannten Reinigungsflug. Sollte in dieser Zeit frisch gewaschene Wäsche auf der Leine hängen, kann es sein, dass sie auf dieser dunkle Flecken hinterlassen. Dies ist – zugegeben – lästig, ist aber mit einer erneuten Wäsche behoben. Allerdings findet der Reinigungs zu Zeiten im Jahr statt, zu denen üblicherweise nur selten im Freien getrocknet wird. Auch helle Autos können schonmal „Opfer“ dieser Erleichterung sein.
+Nach den langen Winterwochen müssen die Bienen ihre Kotblase leeren; sie vollziehen den so genannten Reinigungsflug. Sollte in dieser Zeit frisch gewaschene Wäsche auf der Leine hängen, kann es sein, dass sie auf dieser dunkle Flecken hinterlassen. Dies ist – zugegeben – lästig, ist aber mit einer erneuten Wäsche behoben. Allerdings findet der Reinigungsflug zu Zeiten im Jahr statt, zu denen üblicherweise nur selten im Freien getrocknet wird. Auch helle Autos können schonmal „Opfer“ dieser Erleichterung sein.
 
 ## Die Stadt als Nektar-Paradies
 
@@ -35,7 +35,7 @@ In unseren Städten finden Bienen über einen langen Zeitraum Nektar und Pollen.
 
 Leider jedoch stehen in unseren Gärten auch viele Pflanzen, die zwar schön blühen, aber keinerlei Nektar bieten. Z.B. die Forsythie ist eine dieser schmucken, aber aus Bienen-Sicht wertlosten Pflanzen.
 
-Interessanter für Bienen sind einige Pflanzen, die leider häufig als lästige „Unkräuter“ angesehen werden: Löwnzahn, Klee. Aber auch angesehenere Pflanzen dienen unseren Bienen als Nahrungsquelle: Himbeere, Brombeere, Apfel, Kirsche, Klatschmohn, Königskerze, Sonnenblume, Fette Henne, Efeu, Berberitze, Weiden, Bienenbaum, Kornelkirsche u.v.m.. Listen der wichtigsten Trachtpflanzen gibt es in der [Wikipedia](https://de.wikipedia.org/wiki/Bienentrachtpflanze) und in [WikiBooks](http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_die_Imkerei/_Trachtpflanzen), beim [Bundesministerium für Ernährung und Landwirtschaft](http://www.bmel.de/SharedDocs/Downloads/Broschueren/Bienenlexikon.pdf?__blob=publicationFile) und auch bei den Pflanzempfehlungen des Projektes [„Die Honigmacher“](http://www.die-honigmacher.de/kurs2/empfehlung.html).
+Interessanter für Bienen sind einige Pflanzen, die leider häufig als lästige „Unkräuter“ angesehen werden: Löwenzahn, Klee. Aber auch angesehenere Pflanzen dienen unseren Bienen als Nahrungsquelle: Himbeere, Brombeere, Apfel, Kirsche, Klatschmohn, Königskerze, Sonnenblume, Fette Henne, Efeu, Berberitze, Weiden, Bienenbaum, Kornelkirsche u.v.m.. Listen der wichtigsten Trachtpflanzen gibt es in der [Wikipedia](https://de.wikipedia.org/wiki/Bienentrachtpflanze) und in [WikiBooks](http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_die_Imkerei/_Trachtpflanzen), beim [Bundesministerium für Ernährung und Landwirtschaft](http://www.bmel.de/SharedDocs/Downloads/Broschueren/Bienenlexikon.pdf?__blob=publicationFile) und auch bei den Pflanzempfehlungen des Projektes [„Die Honigmacher“](http://www.die-honigmacher.de/kurs2/empfehlung.html).
 
 Lassen Sie also ruhig einmal das ein oder andere Kraut stehen und warten Sie vielleicht nochmal ein paar Tage mit dem Mähen des Rasens, auch wenn schon der Klee blüht.
 
@@ -47,7 +47,7 @@ Wenn man sich manche Leserbriefe oder Reaktionen in Internetforen anschaut, gewi
 
 <div class="imageleft" style="max-width:300px;"><img class="img-responsive img-rounded" src="/images/content/ImkermitWabe.jpg" alt="Imker mit Wabe" />Imker bei der Arbeit – mit bloßen Händen<br/><a class="text-muted"  href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a> <a class="text-muted" href="https://flic.kr/p/4X6eVH">flickr</a></div>In den letzten Jahrzehnten haben sich nicht nur die Imker verjüngt. Die Bienen wurden auch ganz gezielt auf Sanftmut hin gezüchtet. Daher ist es heute möglich, weitestgehend ohne Schutz an den Bienenstöcken zu arbeiten. Lediglich bei bestimmten Wetterlagen und sehr extremen Eingriffen in das Bienennest kann es sein, dass die Nektarsammlerinnen unfreundlich reagieren.
 
-Keinesfalls aber müssen Imker-Nachbarn befürchten, dass sie auf der Terrasse von Bienen angefallen werden. Es kann höchstens einmal sein, dass ein Bienenschwarm eine Beute verlässt und sich an einem Zweig niederlässt. Diese Menge an Bienen ist zwar beeindrucken, aber ebenfalls nicht gefährlich. Im Gegenteil: Diese Bienen sind extrem friedlich, da sie kein Nest zu verteidigen haben. Was Sie tun sollten, wenn Sie einen Bienenschwarm finden, lesen Sie im Artikel [„Schwarm gefunden – was tun“](/content/schwarm_gefunden_was_tun.html){: class="nolinkicon"}.
+Keinesfalls aber müssen Imker-Nachbarn befürchten, dass sie auf der Terrasse von Bienen angefallen werden. Es kann höchstens einmal sein, dass ein Bienenschwarm eine Beute verlässt und sich an einem Zweig niederlässt. Eine solche Menge an Bienen ist zwar beeindruckend, aber ebenfalls nicht gefährlich. Im Gegenteil: Diese Bienen sind extrem friedlich, da sie kein Nest zu verteidigen haben. Was Sie tun sollten, wenn Sie einen Bienenschwarm finden, lesen Sie im Artikel [„Schwarm gefunden – was tun“](/content/schwarm_gefunden_was_tun.html){: class="nolinkicon"}.
 
 ## Die rechtliche Situation
 
@@ -67,16 +67,16 @@ Der Beruf des Imkers bzw. [Zeidlers](https://de.wikipedia.org/wiki/Zeidlerei) is
 In unserem modernen Rechtssystem werden zahlreiche Rechtsbereiche berührt: Nachbarrecht, Haftungsrecht, Schwarmrecht, Baurecht, Tierseuchenrecht, Lebensmittelrecht.
 
 Beim Imkerverein „Apidea mellifica“, bei dem ich selbst Mitglied bin, gibt es eine sehr umfassende [Übersicht](http://www.imkerverein-duesseldorf.de/index.php?option=com_content&view=article&id=71&Itemid=74) zu den verschiedenen Themen.
-Ich konnte keinen Grund finden, der aus rechtlichen oder auch aus „Vernunfsgründen“ aus meiner Sicht dagegen spricht, Bienen in unserem Garten zu halten.
+Ich konnte keinen Grund finden, der aus rechtlichen oder auch aus „Vernunftsgründen“ aus meiner Sicht dagegen spricht, Bienen in unserem Garten zu halten.
 
 > Die Schwierigkeit, mit den Vorschriften und Auslegungen umzugehen, liegt nicht allein in der Eigenart der Honigbiene, die rechtlich eine Sonderstellung einnimmt, begründet. Sie rührt auch daher, daß nicht nur der Imker, sondern vor allem die Allgemeinheit am Nutzen der Biene teilnimmt.
 >
 > (Das Bienenrecht, Dr. Achim Gercke, 1985)
 
-Haben Sie nicht auch das Gefühl, dass es heutzutage allgemein viel weniger Bienen in den Gärten gibt, als noch in Ihrer Kindheit? Sind jetzt wirklich ungewöhnlich mehr Bienen im Garten, oder haben Sie nur das Empfinden, weil Sie wissen, dass sich nicht weit weg ein Bienenstand befindet?
+Haben Sie nicht auch das Gefühl, dass es heutzutage allgemein viel weniger Bienen in den Gärten gibt als noch in Ihrer Kindheit? Sind jetzt wirklich ungewöhnlich mehr Bienen im Garten, oder haben Sie nur das Empfinden, weil Sie wissen, dass sich nicht weit weg ein Bienenstand befindet?
 
-Konflikte entstehen im Wesentlichen durch falsche Informationen, weil Menschen Angst vor Stichen haben, teilweise Bienen mit Wespen verwechselt werden (Wespen verhalten sich u.U. völlig anders als Bienen), eventuell Verschmutzungen beim Reinigungsflug entstehen oder sich Schwärme auf dem Nachbargrundstück niederlassen. Daher habe ich versucht, hier für mehr Klarheit zu Sorgen und Missverständnisse aus dem Weg zu räumen.
+Konflikte entstehen im Wesentlichen durch falsche Informationen, weil Menschen Angst vor Stichen haben, teilweise Bienen mit Wespen verwechselt werden (Wespen verhalten sich u.U. völlig anders als Bienen), eventuell Verschmutzungen beim Reinigungsflug entstehen oder sich Schwärme auf dem Nachbargrundstück niederlassen. Daher habe ich versucht, hier für mehr Klarheit zu sorgen und Missverständnisse aus dem Weg zu räumen.
 
-Sollte dennoch Unklarheiten oder Sorgen bestehen, suchen Sie bitte immer zunächst das persönliche [Gespräch](/kontakt.html). Haben Sie Fragen oder möchten Sie sich einen Eindruck verschaffen: Kommen Sie vorbei. Honig gibt es aber leider erst im kommenden Jahr 2016.
+Sollten dennoch Unklarheiten oder Bedenken bestehen, suchen Sie bitte immer zunächst das persönliche [Gespräch](/kontakt.html){: class="nolinkicon"}. Haben Sie Fragen oder möchten Sie sich einen Eindruck verschaffen: Kommen Sie vorbei. Honig gibt es aber leider erst im kommenden Jahr 2016.
 
 <img  class="img-responsive" style="max-width:300px" src="/images/content/signatur.png">
