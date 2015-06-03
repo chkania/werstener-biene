@@ -31,13 +31,22 @@
 
         <!-- Footer -->
         <footer>
-            <hr>
             <div class="row">
+                {% if page.nosocial != true%}
+                <div class="col-lg-12 text-right">
+                    <div class="g-plusone" data-size="medium" data-annotation="none"></div>&nbsp;
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="chkania" data-count="none" data-dnt="true">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </div>
+                {% endif %}
+                {% if page.nolicense != true %}
                 <div class="col-lg-12 text-center">
                     {% include license.html %}
                 </div>
+                {% endif %}
             </div>
-            <hr>
+
+
         </footer>
 
     </div>
