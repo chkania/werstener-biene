@@ -39,10 +39,17 @@ body {
   font-weight: 300;
   rgb(74, 74, 74);
   font-size: 17px;
-  /* text-rendering: optimizeLegibility; */
-  text-rendering: geometricPrecision;
   line-height: 1.5em;
   }
+
+html:not(.touch) {
+  /* text-rendering: optimizeLegibility; */
+  text-rendering: geometricPrecision;
+}
+
+html.touch * {
+  text-rendering: optimizeSpeed;
+}
 
 /* h1, h2, h3, h4, h5 {
   font-family: Linux Libertine, serif;
