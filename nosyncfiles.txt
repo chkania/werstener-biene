@@ -1,2 +1,4 @@
 .htaccess
 _config.yml
+aciibee.txt
+generate_site.sh
