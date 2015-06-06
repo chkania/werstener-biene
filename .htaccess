@@ -12,6 +12,7 @@ Header set Cache-Control "max-age=36000, must-revalidate"
 
 # HTTP(S) Stuff
 # Redirect all users except IE 5-8 & Android < 4 to HTTPS
+RewriteEngine On
 RewriteCond %{SERVER_PORT} !^443$
 RewriteCond %{HTTP_USER_AGENT} !MSIE\ [5-8]
 RewriteCond %{HTTP_USER_AGENT} !Android.*(Mobile)?\ [0-3]
