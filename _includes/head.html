@@ -6,7 +6,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Imkerei im Düsseldorfer Stadtteil Wersten">
+    {% if page.excerpt %}
+        <meta name="description" content="page.excerpt">
+    {% else%}
+        <meta name="description" content="Imkerei im Düsseldorfer Stadtteil Wersten">
+    {% endif %}
     <meta name="keywords" content="Imker, Imkerei, Honig, Biene, Bienen,  Düsseldorf, Wersten">
     <meta name="author" content="Christoph Kania">
     <meta name="generator" content="jekyll" />
@@ -20,6 +24,11 @@
     <meta property="og:type" content="website" />
     {% if page.mainimage  %}
         <meta property="og:image"  content="{{ site.url }}{{ page.mainimage}}">
+    {% endif %}
+    {% if page.excerpt %}
+        <meta property="og:description" content="page.excerpt">
+    {% else%}
+        <meta property="og:description" content="Imkerei im Düsseldorfer Stadtteil Wersten">
     {% endif %}
 
     <meta name="msvalidate.01" content="805CC1F66CC6EE16120AE166F013C45D" />
