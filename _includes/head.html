@@ -18,6 +18,9 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="de_DE" />
     <meta property="og:type" content="website" />
+    {% if page.mainimage  %}
+        <meta property="og:image"  content="{{ site.url }}{{ page.mainimage}}">
+    {% endif %}
 
     <meta name="msvalidate.01" content="805CC1F66CC6EE16120AE166F013C45D" />
     <meta name="google-site-verification" content="Ea6w69rEjc639mh8m_U7UBzMgSB-Ds7Av17I0XcnTDQ" />

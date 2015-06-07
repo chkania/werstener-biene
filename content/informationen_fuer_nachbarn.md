@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Informationen für Nachbarn
+mainimage: /images/content/ImkermitWabe.jpg
 nolicense: false
 readingtime: true
 ---
