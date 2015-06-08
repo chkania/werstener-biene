@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Schwarm gefunden – was tun
+mainimage: /images/content/BienenschwarmBaum.jpg
 nolicense: false
 readingtime: true
 ---
