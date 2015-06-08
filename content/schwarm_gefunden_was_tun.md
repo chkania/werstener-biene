@@ -57,4 +57,4 @@ Am Ende können Sie sich gleich mehrfach freuen:
 * Sie haben einen Imker glücklich gemacht.
 * Bestimmt gibt es ein Glas Honig als Finderlohn.
 
-Wenn Sie sich dafür interessieren, wie die Bienen es schaffen, als 10.000 Individuen umfassender Schwarm eine Abstimmung über die neue Behausung durchzuführen und am Ende zu einer einvernehmlichen „Meinung“ zu kommen, empfehle ich Ihnen das Buch „Bienendemokratie“ von Thomas Seeley [Amazon](http://www.amazon.de/dp/3100751388)
+Wenn Sie sich dafür interessieren, wie die Bienen es schaffen, als 10.000 Individuen umfassender Schwarm eine Abstimmung über die neue Behausung durchzuführen und am Ende zu einer einvernehmlichen „Meinung“ zu kommen, empfehle ich Ihnen das Buch „Bienendemokratie“ von Thomas Seeley [Amazon Affiliate Link](http://www.amazon.de/gp/product/3100751388/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3100751388&linkCode=as2&tag=werstbiene-21&linkId=AUZ3DIKOPW63EJJO)<img src="http://ir-de.amazon-adsystem.com/e/ir?t=werstbiene-21&l=as2&o=3&a=3100751388" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
