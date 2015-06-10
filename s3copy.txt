@@ -1,0 +1,3 @@
+/images/site/Slider1_progressive_90.jpg
+/images/site/Slider2_progressive_90.jpg
+/images/site/Slider3_progressive_90.jpg

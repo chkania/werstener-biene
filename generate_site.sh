@@ -9,6 +9,12 @@ echo "---------------------------------"
 echo "Erzeuge Seite neu …"
 jekyll build --lsi
 echo "---------------------------------"
-echo "Aktualisiere Inhalte …"
+echo "Aktualisiere lokale Inhalte …"
 rsync -rctv --delete --exclude nosyncfiles.txt /home/skyb/werstener-biene/_site/ /var/www/virtual/skyb/werstener-biene.de/
+echo "Aktualisiere S3 Inhalte …"
+cat s3copy.txt | while read line
+do
+    echo $line
+done
+#s3cmd put /home/skyb/werstener-biene/_site/images/site/Slider1_progressive_90.jpg s3://werstener-biene/images/site/Slider1_progressive_90.jpg
 echo "Fertig"
