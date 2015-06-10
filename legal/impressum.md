@@ -25,7 +25,9 @@ E-Mail: 	info@werstener-biene.de</address>
 Höhrather Str. 11<br/>
 40591 Düsseldorf</address>
 
-## Bildquellen Startseite
+## Quellenangaben 
+
+### Bildquellen Startseite
 
 * Slider 1: 
     * Quelle: [https://flic.kr/p/fizU65](https://flic.kr/p/fizU65)
@@ -37,7 +39,15 @@ Höhrather Str. 11<br/>
     * Quelle: [https://flic.kr/p/ooHsWU](https://flic.kr/p/ooHsWU)
     * Lizenz: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/
 
+### Impressum
+
 Quelle des Impressum-Textes: [http://www.e-recht24.de](http://www.e-recht24.de)
+
+### Favoriten-Icon
+
+Quelle: http://pixabay.com/en/honey-bee-flying-insect-honeybee-311047/
+
+Lizenz: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 
 # Haftungsausschluss (Disclaimer)
 
