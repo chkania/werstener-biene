@@ -2,7 +2,7 @@
 cat asciibee.txt
 cd /home/skyb/werstener-biene
 
-promtp() {
+prompt() {
     echo "Was willst Du tun?"
     echo "(1) git update"
     echo "(2) build site"
@@ -38,9 +38,7 @@ while true;
     4)
         echo "---------------------------------"
         echo "Aktualisiere S3 Inhalte …"
-        cat s3copy.txt | while read line
-            s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
-            done
+        s3copy
         echo "Fertig"
         echo "---------------------------------"
         ;;
@@ -51,3 +49,9 @@ while true;
    esac
    prompt
   done
+
+s3copy() {
+cat s3copy.txt | while read line
+            s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
+            done
+}
