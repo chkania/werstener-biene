@@ -1,15 +1,69 @@
----
-layout: default
----
-<div class="post">
+{% include head.html %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+<body>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+{% include navbar.html %}
 
-</div>
+
+
+    <!-- Page Content -->
+    <div class="container">
+
+
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">{{ page.title }}
+                    {% if subtitle %}<small>{{ page.title }}</small>{% endif %}
+                </h1>
+                {% comment %}
+                <ol class="breadcrumb">
+                    <li><a href="/index.html">Home</a>
+                    </li>
+                    <li class="active">{{ page.title }}</li>
+                </ol>
+                {% endcomment %}
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <div id="content">
+            <div class="row printbutton" id="readingtime">
+                <div class="col-xs-10 col-xs-offset-2">
+                    <div class="text-right text-muted">
+                        <i class="fa fa-calendar-o"></i> Veröffentlicht am {{ page.date | date:"%d.%m.%Y" }}
+                    {% if page.readingtime != false or !page.noreadingtime %}
+                        <br/><i class="fa fa-fw fa-clock-o"></i> Durchschnittliche Lesezeit: {{ page.content | reading_time }}
+                    {% endif %}
+                    {% if page.printpage != false or !page.printpage %}
+                        <br/><button class="btn btn-link btn-xs pull-right text-muted" onClick="window.print()"><div class="text-muted"><i class="fa fa-fw fa-print"></i>Diese Seite drucken</div></button><br/>
+                    {% endif %}
+                    </div>
+                </div>
+            </div>
+
+        {{ content }}
+
+            <!-- Footer -->
+        <footer>
+            <div class="row">
+                {% if page.nosocial != true%}
+                <div class="col-lg-12 text-right">
+                    <div class="g-plus" data-action="share" data-annotation="bubble" data-href="{{ site.url }}{{ page.url }}"></div>
+                    <a href="https://twitter.com/share" class="twitter-share-button" data-via="chkania" data-dnt="true">Tweet</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </div>
+                {% endif %}
+                {% if page.nolicense != true %}
+                <div class="col-lg-12 text-center">
+                    {% include license.html %}
+                </div>
+                {% endif %}
+            </div>
+
+
+        </footer>
+        </div>
+
+
+{% include footer.html %}

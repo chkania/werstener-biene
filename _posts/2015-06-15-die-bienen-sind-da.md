@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Die Bienen sind da
 author: Christoph Kania
 date: 2015-06-15
