@@ -13,6 +13,12 @@ prompt() {
 }
 trap prompt SIGINT
 
+s3copy {
+    cat s3copy.txt | while read line; do
+        s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
+    done
+}
+
 while true;
   do
     case "$action" in
@@ -38,9 +44,7 @@ while true;
     4)
         echo "---------------------------------"
         echo "Aktualisiere S3 Inhalte …"
-        cat s3copy.txt | while read line
-            s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
-            done
+        s3copy
         echo "Fertig"
         echo "---------------------------------"
         ;;
@@ -52,8 +56,3 @@ while true;
    prompt
   done
 
-s3copy() {
-cat s3copy.txt | while read line
-            s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
-            done
-}
