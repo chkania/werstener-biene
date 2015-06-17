@@ -13,7 +13,7 @@ layout:
 		{% for post in site.posts limit:30 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
-				<description>&lt;p&gt;{{ post.excerpt | xml_escape }}&lt;/p&gt;{{ post.content | xml_escape }}{% if page.nolicense != true %}{% include license.html %}{% endif %}</description>
+				<description>&lt;p&gt;{{ post.excerpt | xml_escape }}&lt;/p&gt;{{ post.content | xml_escape }}{% if page.nolicense != true %}&lt;hr/&gt;&lt;p>&lt;a class="nolinkicon" rel="license" href="http://creativecommons.org/licenses/by/4.0/">&lt;img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="/images/site/CCBy4_88x31.png" /&gt;&lt;/a&gt; Dieses Werk von &lt;a class="nolinkicon" xmlns:cc="http://creativecommons.org/ns#" href="http://werstener-biene.de" property="cc:attributionName" rel="cc:attributionURL"&gt;Christoph Kania&lt;/a&gt; ist lizenziert unter einer &lt;a rel="license" href="http://creativecommons.org/licenses/by/4.0/"&gt;Creative Commons Attribution 4.0 International (CC BY 4.0) Lizenz&lt;/a&gt;.&lt;/p&gt;&lt;hr/&gt;{% endif %}</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
