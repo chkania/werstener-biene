@@ -38,7 +38,9 @@ while true;
     4)
         echo "---------------------------------"
         echo "Aktualisiere S3 Inhalte …"
-        s3copy
+        cat s3copy.txt | while read line
+            s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
+            done
         echo "Fertig"
         echo "---------------------------------"
         ;;
