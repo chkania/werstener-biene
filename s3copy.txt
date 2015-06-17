@@ -13,3 +13,4 @@ js/bootstrap.js
 js/jqBootstrapValidation.js
 js/jquery.js
 js/contact_me.js
+/images/content/Brutwabe*.jpg
