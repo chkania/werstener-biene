@@ -10,7 +10,7 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <link rel="shortcut" href="/favicon.ico" type="image/x-icon">
     {% if page.excerpt %}
-        <meta name="description" content="page.excerpt">
+        <meta name="description" content="{{ page.excerpt }}">
     {% else%}
         <meta name="description" content="Imkerei im D&uuml;sseldorfer Stadtteil Wersten">
     {% endif %}
@@ -29,7 +29,7 @@
         <meta property="og:image"  content="{{ site.url }}{{ page.mainimage}}">
     {% endif %}
     {% if page.excerpt %}
-        <meta property="og:description" content="page.excerpt">
+        <meta property="og:description" content="{{ page.excerpt }}">
     {% else%}
         <meta property="og:description" content="Imkerei im D&uuml;sseldorfer Stadtteil Wersten">
     {% endif %}
