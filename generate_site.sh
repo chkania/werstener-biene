@@ -13,7 +13,7 @@ prompt() {
 }
 trap prompt SIGINT
 
-s3copy {
+function s3copy {
     cat s3copy.txt | while read line; do
         s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
     done
