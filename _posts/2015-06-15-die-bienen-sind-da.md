@@ -13,7 +13,7 @@ excerpt: "Nach langer Wartezeit sind die beiden Ableger nun in unserem Garten au
 
 Bienenzüchter können einem schon leid tun. Zumindest jene, die Jungimker mit Ablegern versorgen. Mein Züchter war auf jeden Fall sichtlich von den ungeduldigen Neuimkern genervt, die alle Nase lang nachgefragt hatten, wann die Bienen denn nun endlich kommen.
 
-<div class="imageleft" style="max-width:300px;"><img class="img-responsive img-rounded" src="/images/content/Brutwabe_600.jpg" alt="Brutwabe" />Bienen auf einer Brutwabe</div>Eigentlich wollte er die Ableger noch zwei weitere Wochen auf seinem Stand behalten, damit die ersten Töchter der neuen Königin noch bei ihm schlüpfen und er ein kräftigeres Volk abgeben kann. 
+<div class="imageleft" style="max-width:300px;"><img class="img-responsive img-rounded" src="{{ site.url }}/images/content/Brutwabe_600.jpg" alt="Brutwabe" />Bienen auf einer Brutwabe</div>Eigentlich wollte er die Ableger noch zwei weitere Wochen auf seinem Stand behalten, damit die ersten Töchter der neuen Königin noch bei ihm schlüpfen und er ein kräftigeres Volk abgeben kann. 
 
 Am vergangenen Samstag (13. Juni 2015) konnte ich sie dann aber doch abholen. Es schwirrte ordentlich von Bienen, denn insgesamt standen ca. 25 Ablegerkästen auf dem Platz und es landen ja nicht immer alle Bienen in der Beute.
 
