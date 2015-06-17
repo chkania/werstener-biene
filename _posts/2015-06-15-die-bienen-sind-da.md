@@ -7,7 +7,7 @@ published: true
 categories:
 tags: [Bienenstand, Ableger]
 language: de
-image: /images/content/Brutwabe_1200.jpg
+mainimage: /images/content/Brutwabe_1200.jpg
 excerpt: "Nach langer Wartezeit sind die beiden Ableger nun in unserem Garten aufgestellt und wir beobachten zufrieden das muntere Treiben."
 ---
 
@@ -21,7 +21,7 @@ Bei der gemeinsamen Inspektion der Waben konnte ich mich davon überzeugen, dass
 
 Die Rückfahrt mit dem Auto war etwas aufregend, denn ich konnte die Bienen summen hören und die Vorstellung, dass sich auf der Autbahn bei einem Ruck eine Beute öffnet und die Bienen durch das Auto fliegen, war doch etwas beunruhigend. Aber die Wandergurte haben hervorragend gehalten.
 
-<div class="imageright hideinprint" style="max-width:420px;"><iframe width="420" height="315" src="https://www.youtube.com/embed/ZBrCxvLD4oo" frameborder="0" allowfullscreen></iframe></div>Zu Hause angekommen, wurden die Bienen an ihrem zukünftigen Wohnort aufgestellt und die Fluglöcher nur etwa eine Bienenbreite weit geöffnet. Da die Völker noch sehr klein sind und sich um die Pflege der Brut kümmern müssen, können sie nur eine sehr klein besetzte Fluglochwache aufstellen. Daher sind die Völker, wenn die Fluglöcher zu groß sind, ein leichtes Spiel für andere Bienen oder auch Wespen und können der Räuberei zum Opfer fallen.
+<div class="imageright hideinprint" style="max-width:420px;">{% youtube ZBrCxvLD4oo %}</div>Zu Hause angekommen, wurden die Bienen an ihrem zukünftigen Wohnort aufgestellt und die Fluglöcher nur etwa eine Bienenbreite weit geöffnet. Da die Völker noch sehr klein sind und sich um die Pflege der Brut kümmern müssen, können sie nur eine sehr klein besetzte Fluglochwache aufstellen. Daher sind die Völker, wenn die Fluglöcher zu groß sind, ein leichtes Spiel für andere Bienen oder auch Wespen und können der Räuberei zum Opfer fallen.
 
 Es war sehr schön zu sehen, wie die Bienen zunächst einen Orientierungsflug unternahmen. Sie kamen aus dem Flugloch heraus, flogen in aufsteigenden Spiralen über den Stand und dann wieder in die Beute ein. Es war deutlich zu hören, dass eine gewisse Unruhe im Volk war.
 
