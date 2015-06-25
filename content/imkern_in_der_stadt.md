@@ -21,7 +21,7 @@ Wenn Sie sich auch dafür interessieren, Bienen zu halten, wenden Sie sich an ei
 
 Informationsquellen für den Einstieg:
 
-* [Einfach imkern](http://www.amazon.de/dp/3980356868)
+* Einfach imkern [Amazon Affiliate Link](http://www.amazon.de/dp/3980356868/?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&site-redirect=de&tag=werstbiene-21)<img src="http://ir-de.amazon-adsystem.com/e/ir?t=werstbiene-21&l=ur2&o=3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 * [Die Webseite zu „Einfach imkern“](http://www.immelieb.de)
 * [www.imkerforum.de](http://www.imkerforum.de)
 * [Der Podcast „Bienengespräche“](http://www.bienenpodcast.at/)
