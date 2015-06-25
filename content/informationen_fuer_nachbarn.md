@@ -34,7 +34,7 @@ Nach den langen Winterwochen müssen die Bienen ihre Kotblase leeren; sie vollzi
 
 In unseren Städten finden Bienen über einen langen Zeitraum Nektar und Pollen. Anders als in ländlichen Regionen, in denen häufig in Monokulturen angebaut wird, steht in den Privatgärten eine Vielzahl von Blühpflanzen. Auch die vielen Stadtbäume sind attraktive Flugziele.
 
-Leider jedoch stehen in unseren Gärten auch viele Pflanzen, die zwar schön blühen, aber keinerlei Nektar bieten. Z.B. die Forsythie ist eine dieser schmucken, aber aus Bienen-Sicht wertlosten Pflanzen.
+Leider jedoch stehen in unseren Gärten auch viele Pflanzen, die zwar schön blühen, aber keinerlei Nektar bieten. Z.B. die Forsythie ist eine dieser schmucken, aber aus Bienen-Sicht wertlosen Pflanzen.
 
 Interessanter für Bienen sind einige Pflanzen, die leider häufig als lästige „Unkräuter“ angesehen werden: Löwenzahn, Klee. Aber auch angesehenere Pflanzen dienen unseren Bienen als Nahrungsquelle: Himbeere, Brombeere, Apfel, Kirsche, Klatschmohn, Königskerze, Sonnenblume, Fette Henne, Efeu, Berberitze, Weiden, Bienenbaum, Kornelkirsche u.v.m.. Listen der wichtigsten Trachtpflanzen gibt es in der [Wikipedia](https://de.wikipedia.org/wiki/Bienentrachtpflanze) und in [WikiBooks](http://de.wikibooks.org/wiki/Einf%C3%BChrung_in_die_Imkerei/_Trachtpflanzen), beim [Bundesministerium für Ernährung und Landwirtschaft](http://www.bmel.de/SharedDocs/Downloads/Broschueren/Bienenlexikon.pdf?__blob=publicationFile) und auch bei den Pflanzempfehlungen des Projektes [„Die Honigmacher“](http://www.die-honigmacher.de/kurs2/empfehlung.html).
 

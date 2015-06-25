@@ -17,9 +17,9 @@ Bienenzüchter können einem schon leid tun. Zumindest jene, die Jungimker mit A
 
 Am vergangenen Samstag (13. Juni 2015) konnte ich sie dann aber doch abholen. Es schwirrte ordentlich von Bienen, denn insgesamt standen ca. 25 Ablegerkästen auf dem Platz und es landen ja nicht immer alle Bienen in der Beute.
 
-Bei der gemeinsamen Inspektion der Waben konnte ich mich davon überzeugen, dass jedes Volk über eine Königin verfügte, eine gute Menge verdeckelter Brut und reichlich Stifte (so nenn man die in die Zellen abgelegten Eier). Außerdem hatten die Bienen Futter und Pollen eingelagert.
+Bei der gemeinsamen Inspektion der Waben konnte ich mich davon überzeugen, dass jedes Volk über eine Königin verfügte, eine gute Menge verdeckelter Brut und reichlich Stifte (so nennt man die in die Zellen abgelegten Eier). Außerdem hatten die Bienen Futter und Pollen eingelagert.
 
-Die Rückfahrt mit dem Auto war etwas aufregend, denn ich konnte die Bienen summen hören und die Vorstellung, dass sich auf der Autbahn bei einem Ruck eine Beute öffnet und die Bienen durch das Auto fliegen, war doch etwas beunruhigend. Aber die Wandergurte haben hervorragend gehalten.
+Die Rückfahrt mit dem Auto war etwas aufregend, denn ich konnte die Bienen summen hören und die Vorstellung, dass sich auf der Autobahn bei einem Ruck eine Beute öffnet und die Bienen durch das Auto fliegen, war doch etwas beunruhigend. Aber die Wandergurte haben hervorragend gehalten.
 
 <div class="imageright hideinprint" style="max-width:420px;">{% youtube ZBrCxvLD4oo %}</div>Zu Hause angekommen, wurden die Bienen an ihrem zukünftigen Wohnort aufgestellt und die Fluglöcher nur etwa eine Bienenbreite weit geöffnet. Da die Völker noch sehr klein sind und sich um die Pflege der Brut kümmern müssen, können sie nur eine sehr klein besetzte Fluglochwache aufstellen. Daher sind die Völker, wenn die Fluglöcher zu groß sind, ein leichtes Spiel für andere Bienen oder auch Wespen und können der Räuberei zum Opfer fallen.
 
