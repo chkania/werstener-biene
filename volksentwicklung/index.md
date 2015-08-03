@@ -7,7 +7,7 @@ printpage: false
 nosocial: true
 ---
 
- <div class="imagecenter" style="max-width:600px;"><img class="img-responsive img-rounded" src="/volksentwicklung/volksentwicklung.png" alt="Volksentwicklung in Gramm" />Gewicht in Gramm</div>
+ <div class="imagecenter" style="max-width:700px;"><img class="img-responsive img-rounded" src="/volksentwicklung/volksentwicklung.png" alt="Volksentwicklung in Gramm" />Gewicht in Gramm</div>
  
 |Datum       | Volk 1| Volk 2| Bemerkung |
 |:-----------|:------|:------|:----------|
@@ -15,5 +15,7 @@ nosocial: true
 | 24.06.2015 |  1450 |  1700 | Volk 2 hat ein Rähmchen erhalten |
 | 27.06.2015 |  3970 |  3090 | beide Völker sitzen auf 10 Rähmchen |
 | 01.07.2015 |  3730 |  3310 | beide Völker haben reichlich Stifte und noch nicht ausgebaute Mittelwände |
+| 17.07.2015 |  3000 |  2570 | Ich war im Urlaub, so dass die Bienen nicht gefüttert wurden |
+| 29.07.2015 |  4740 |  5530 | Es gab nochmal etwas zu sammeln, denn so viel habe ich nicht gefüttert. Zweite Zarge aufgesetzt. |
 {: class="table table-striped table-condensed table-responsive"}
 
