@@ -17,5 +17,7 @@ nosocial: true
 | 01.07.2015 |  3730 |  3310 | beide Völker haben reichlich Stifte und noch nicht ausgebaute Mittelwände |
 | 17.07.2015 |  3000 |  2570 | Ich war im Urlaub, so dass die Bienen nicht gefüttert wurden |
 | 29.07.2015 |  4740 |  5530 | Es gab nochmal etwas zu sammeln, denn so viel habe ich nicht gefüttert. Zweite Zarge aufgesetzt. |
+| 11.09.2015 |  8260 |  8260 | Fütterung gestartet |
+| 04.10.2015 | 15960 | 12740 | Die Bienen haben das Futter gut eingelagert. Volk 2 ist größer und verbraucht mehr. |
 {: class="table table-striped table-condensed table-responsive"}
 
