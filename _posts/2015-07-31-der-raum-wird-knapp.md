@@ -7,7 +7,7 @@ published: true
 categories:
 tags: [Bienenstand, Ableger]
 language: de
-mainimage: /images/content/Volksgewicht_20150729_1200.png
+mainimage: /images/content/Volksgewicht_20150729_600.png
 excerpt: "Die beiden Königinnen haben fleißig Eier gelegt und daher sind mittlerweile so viele Bienen in den Beute, dass sie mehr Raum benötigen: Die zweite Zarge wird aufgesetzt."
 ---
 

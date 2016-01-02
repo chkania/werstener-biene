@@ -7,7 +7,7 @@ published: true
 categories:
 tags: [Bienenstand, Ableger, Varroa]
 language: de
-mainimage: /images/content/VarroaAufBiene_1200.png
+mainimage: /images/content/VarroaAufBiene_600.png
 excerpt: "Mit der sogenannten Restentmilbung werden die brutfreien Völker im Winter gegen die Varroamilbe behandelt, so dass sie unbelastet ins neue Frühjahr starten könne."
 ---
 

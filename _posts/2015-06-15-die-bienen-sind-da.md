@@ -7,7 +7,7 @@ published: true
 categories:
 tags: [Bienenstand, Ableger]
 language: de
-mainimage: /images/content/Brutwabe_1200.jpg
+mainimage: /images/content/Brutwabe_600.jpg
 excerpt: "Nach langer Wartezeit sind die beiden Ableger nun in unserem Garten aufgestellt und wir beobachten zufrieden das muntere Treiben."
 ---
 

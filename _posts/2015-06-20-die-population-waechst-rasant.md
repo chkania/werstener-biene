@@ -7,7 +7,7 @@ published: true
 categories:
 tags: [Bienenstand, Ableger]
 language: de
-mainimage: /images/content/WabeVorherNachher_1200.jpg
+mainimage: /images/content/WabeVorherNachher_600.jpg
 excerpt: "Innerhalb weniger Tage ist eine große Menge Bienen geschlüpft. Die Brutwaben sind nun nahezu vollständig von Bienen besetzt und ständig werden weitere Zellen gebaut, um das Nest zu erweitern."
 ---
 
