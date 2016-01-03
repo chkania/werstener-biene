@@ -20,5 +20,7 @@ nosocial: true
 | 11.09.2015 |  8.260 |  8.260 | Fütterung für den Winter gestartet |
 | 04.10.2015 | 15.960 | 12.740 | Die Bienen haben das Futter gut eingelagert. Volk 2 ist größer und verbraucht mehr. Ich hatte jeweils ca. 6kg Sirup gegeben.|
 | 13.10.2015 | 19.000 | 17.700 | Da ich mir nicht sicher war, wie viel ich noch für Bienen und Waben abziehen musste, habe ich noch einmal gefüttert. |
+| 04.11.2015 | 18.290 | 15.480 | |
+| 27.12.2015 | 16.450 | 14.290 | |
 {: class="table table-striped table-condensed table-responsive"}
 
