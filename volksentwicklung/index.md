@@ -22,5 +22,6 @@ nosocial: true
 | 13.10.2015 | 19.000 | 17.700 | Da ich mir nicht sicher war, wie viel ich noch für Bienen und Waben abziehen musste, habe ich noch einmal gefüttert. |
 | 04.11.2015 | 18.290 | 15.480 | |
 | 27.12.2015 | 16.450 | 14.290 | |
+| 28.01.2016 | 29.100 | 26.470 | Volk 1 ist sehr klein und wird nur sehr wenig Futter verbrauchen. Die leichte Zunahme führe ich auf eine erhöhte Feuchtigkeit im Holz zurück. |
 {: class="table table-striped table-condensed table-responsive"}
 
