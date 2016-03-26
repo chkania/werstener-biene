@@ -25,7 +25,7 @@ nosocial: true
 | 27.12.2015 | 16.450 | 14.290 | |
 | 28.01.2016 | 16.460 | 13.830 | Volk 1 ist sehr klein und wird nur sehr wenig Futter verbrauchen. Die leichte Zunahme führe ich auf eine erhöhte Feuchtigkeit im Holz zurück.|
 | 18.02.2016 | 18.660 | 12.490 | |
-| 27.02.2016 | 17.020 | 12.960 | |
+| 27.02.2016 | 17.020 | 12.960 | Volk 1 sitzt nur auf drei Wabengassen und dort auch nur auf der forderen Hälfte. Daher habe ich es auf Volk 2 aufgesetzt, das acht Gassen komplett besetzt. |
 | 19.03.2016 | 12.160 | 11.190 | Volk 2 hat sehr viel Futter gezehrt. Daher habe ich zwei Futterwaben von Volk 1 in Volk 2 umgehangen und nach der Wägung 550g Sirup gefüttert. |
 {: class="table table-striped table-condensed table-responsive"}
 
