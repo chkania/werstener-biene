@@ -7,7 +7,8 @@ printpage: false
 nosocial: true
 ---
 
- <div class="imagecenter" style="max-width:700px;"><img class="img-responsive img-rounded" src="/volksentwicklung/volksentwicklung.png" alt="Volksentwicklung in Gramm" />Gewicht in Gramm</div>
+ <div class="imagecenter" style="max-width:900px;"><img class="img-responsive img-rounded" src="/volksentwicklung/volksentwicklung.png" alt="Völkergewicht" /></div>
+ <br />
  
 |Datum       | Volk 1 | Volk 2 | Bemerkung |
 |------------|-------:|-------:|:----------|
@@ -22,6 +23,9 @@ nosocial: true
 | 13.10.2015 | 19.000 | 17.700 | Da ich mir nicht sicher war, wie viel ich noch für Bienen und Waben abziehen musste, habe ich noch einmal gefüttert. |
 | 04.11.2015 | 18.290 | 15.480 | |
 | 27.12.2015 | 16.450 | 14.290 | |
-| 28.01.2016 | 16.460 | 13.830 | Volk 1 ist sehr klein und wird nur sehr wenig Futter verbrauchen. Die leichte Zunahme führe ich auf eine erhöhte Feuchtigkeit im Holz zurück. |
+| 28.01.2016 | 16.460 | 13.830 | Volk 1 ist sehr klein und wird nur sehr wenig Futter verbrauchen. Die leichte Zunahme führe ich auf eine erhöhte Feuchtigkeit im Holz zurück.|
+| 18.02.2016 | 18.660 | 12.490 | |
+| 27.02.2016 | 17.020 | 12.960 | |
+| 19.03.2016 | 12.160 | 11.190 | Volk 2 hat sehr viel Futter gezehrt. Daher habe ich zwei Futterwaben von Volk 1 in Volk 2 umgehangen und nach der Wägung 550g Sirup gefüttert. |
 {: class="table table-striped table-condensed table-responsive"}
 
