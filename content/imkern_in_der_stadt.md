@@ -9,7 +9,7 @@ Das Interesse an der Imkerei boomt derzeit enorm. Anfängerkurse werden fast an 
 
 „Imkern in der Stadt? Da wächst doch nichts. Und dann die Abgase!“
 
-Falsch gedacht. Die Flora in unseren Städten ist für Bienen durchaus attraktiv. Zum Einen gibt es Parkanlagen und Alleen mit einem großen Angebot an Baum-Tracht. Zum Anderen sorgen die Stadtbewohner aus eigenem Interesse dafür, dass über einen sehr langen Zeitraum des Jahres etwas Blühendes auf dem Balkon oder im Garten steht. Und dann sind da noch die Randbereiche der Stadt, in denen auch gerne mal Obstbäume stehen. Es gibt im städtischen Raum also ein sehr breites Angebot an Nektar und Pollen für die Honigbiene.
+Falsch gedacht. Die Flora in unseren Städten ist für Bienen durchaus attraktiv. Zum Einen gibt es Parkanlagen und Alleen mit einem großen Angebot an Baum-Tracht. Zum Anderen sorgen die Stadtbewohner aus eigenem Interesse dafür, dass über einen sehr langen Zeitraum des Jahres etwas Blühendes auf dem Balkon oder im Garten steht. Und dann sind da noch die Randbereiche der Stadt, in denen auch gerne mal Obstbäume zu finden sind. Es gibt im städtischen Raum also ein sehr breites Angebot an Nektar und Pollen für die Honigbiene.
 
 Viel Platz nimmt eine Beute (so bezeichnen Imker die Kiste, in der ein Bienenvolk lebt) nicht ein. Es gibt sogar Modelle, die wie ein Blumenkasten von außen an der Brüstung des Balkons befestigt werden. Und das Gesetzt spricht der Bienenhaltung eine besondere Rolle zu, so dass auch auf dem Balkon Bienenhaltung grundsätzlich möglich ist. Aber vor dem Gesetzt steht der [Nachbarschafts-Friede](/content/informationen_fuer_nachbarn.html){: class="nolinkicon"}.
 
