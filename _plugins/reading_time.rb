@@ -12,7 +12,7 @@ module ReadingTimeFilter
 		input = input.gsub(/(<[^>]*>)|\n|\t/m, '')
 		words = input.split.size;
 		minutes = ( words / words_per_minute ).floor
-		minutes_label = minutes === 1 ? " Minute" : "&nbsp;Minuten"
+		minutes_label = minutes === 1 ? "&nbsp;Minute" : "&nbsp;Minuten"
 		minutes > 0 ? "ca. #{minutes} #{minutes_label}" : "weniger als eine Minute"
 	end
 end
