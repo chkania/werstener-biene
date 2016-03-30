@@ -13,11 +13,11 @@ excerpt: "Mit der sogenannten Restentmilbung werden die brutfreien Völker im Wi
 
 <div class="imageleft" style="max-width:300px;"><img class="img-responsive img-rounded" src="/images/content/VarroaAufBiene_600.png" alt="Varroamilbe auf einer Honigbiene" />Varroamilbe auf einer Honigbiene<br/><a class="text-muted"  href="https://creativecommons.org/licenses/by/2.0/">CC BY 2.0</a> <a class="text-muted" href="https://flic.kr/p/eHXRx1">flickr</a></div>
 
-Die [Varroamilbe](https://de.wikipedia.org/wiki/Varroamilbe) (Varroa destructor) ist ein Parasit der Honigbiene und wahrscheinlich der Hauptgrund für das Sterben ganzer Bienenvölker. Sie hat vermutlich – zumindest in unsere Breiten – einen viel höheren Einfluss auf die Bienengesundheit als z.B. Pestizide.
+Die [Varroamilbe](https://de.wikipedia.org/wiki/Varroamilbe) (Varroa destructor) ist ein Parasit der Honigbiene und wahrscheinlich der Hauptgrund für das Sterben ganzer Bienenvölker. Sie hat vermutlich – zumindest in unseren Breiten – einen viel höheren Einfluss auf die Bienengesundheit, als z.B. Pestizide.
 
-Die Varroamilbe ernährt sich von der Hämolymphe der Bienen. Sie sitzt sowohl auf den Laven, als auch auf den geschlüpften Bienen. Zum Einen schwächt sie die Biene durch das Saugen der Lymphe, zum Anderen überträgt sie Krankheitserregern auf den Wirt. Zu diesen gehört unter anderem das Flügeldeformationsvirus (Deformed Wing Virus – DWV).
+Die Varroamilbe ernährt sich von der Hämolymphe der Bienen. Sie sitzt sowohl auf den Laven, als auch auf den geschlüpften Bienen. Zum Einen schwächt sie die Biene durch das Saugen der Lymphe, zum Anderen überträgt sie Krankheitserreger auf den Wirt. Zu diesen gehört unter anderem das Flügeldeformationsvirus (Deformed Wing Virus – DWV).
 
-Im Frühjahr werden wir wieder in den Medien hören, wie groß die Verluste im Winter waren. Ein signifikanter Anteil dieser Verluste wird darauf zurückzuführen sein, dass die zu viele Milben in den Völkern waren und daher die geschwächten Bienen den Winter nicht überstanden haben. Meist ist das auf einen Behandlungsfehler zurückzuführen. Und auch ich werde vermutlich eines meiner Völker verlieren, weil ich die erste Behandlung gegen die Milbe zu spät durchgeführt habe.
+Im Frühjahr werden wir wieder in den Medien hören, wie groß die Verluste im Winter waren. Ein signifikanter Anteil dieser Verluste wird darauf zurückzuführen sein, dass zu viele Milben in den Völkern waren und daher die geschwächten Bienen den Winter nicht überstanden haben. Meist ist das auf einen Behandlungsfehler zurückzuführen. Und auch ich werde vermutlich eines meiner Völker verlieren, weil ich die erste Behandlung gegen die Milbe zu spät durchgeführt habe.
 
 ## Behandlungsmittel und -methoden
 
