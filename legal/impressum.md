@@ -25,6 +25,10 @@ E-Mail: 	info@werstener-biene.de</address>
 Höhrather Str. 11<br/>
 40591 Düsseldorf</address>
 
+## Steuerinformationen:
+
+Umsatzsteuer-IdNr: DE305034727
+
 ## Quellenangaben 
 
 ### Bildquellen Startseite
