@@ -47,4 +47,4 @@ Als die Varroamilbe in den europäischen Bienenbeuten einzog, wurde zunächst ve
 
 Die organischen Säuren Ameisensäure, Oxalsäure und Milchsäure kommen natürlicherweise im Organismus der Bienen und der Menschen vor. Resistenzen sind nicht bekannt. Da alle drei Säuren wasserlöslich sind, reichern sie sich nicht im Wachs an. Bei korrekter Anwendung sind keine Spuren der Behandlung im Honig nachweisbar.
 
-Die Behandlung mit organischen Säuren haben sich in den letzten Jahren durchgesetzt. Die Behandlungsmethoden müssen aber ständig verbessert werden. Es ist daher auch wichtig, dass wir Imker uns ständig weiterbilden und den aktuellen Stand der Forschung verfolgen. 
+Die Behandlung mit organischen Säuren hat sich in den letzten Jahren durchgesetzt. Die Behandlungsmethoden müssen aber ständig verbessert werden. Es ist daher auch wichtig, dass wir Imker uns weiterbilden und den aktuellen Stand der Forschung verfolgen. 
