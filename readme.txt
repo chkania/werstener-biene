@@ -1,0 +1,1 @@
+convert <imageSource> -resize 300 -quality 75 <imageTarget>_300.png
