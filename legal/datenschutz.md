@@ -29,7 +29,7 @@ Auf unseren Seiten sind Plugins des sozialen Netzwerks Facebook (Facebook Inc., 
 
 Auf unseren Seiten sind Funktionen des Dienstes Twitter eingebunden. Diese Funktionen werden angeboten durch die Twitter Inc., Twitter, Inc. 1355 Market St, Suite 900, San Francisco, CA 94103, USA. Durch das Benutzen von Twitter und der Funktion "Re-Tweet" werden die von Ihnen besuchten Webseiten mit Ihrem Twitter-Account verknüpft und anderen Nutzern bekannt gegeben. Dabei werden auch Daten an Twitter übertragen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Twitter erhalten. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von Twitter unter <a href="http://twitter.com/privacy" target="_blank">http://twitter.com/privacy</a>. Ihre Datenschutzeinstellungen bei Twitter können Sie in den Konto-Einstellungen unter <a href="http://twitter.com/account/settings" target="_blank">http://twitter.com/account/settings</a> ändern.
 
-
+{% comment %}
 ## Datenschutzerklärung zur Erfassung des Benutzerverhaltens (Tracking)
 
 Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswertung der Besucherzugriffe. Piwik verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieses Internetangebotes werden auf dem Server des Anbieters in Deutschland gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können.
@@ -37,6 +37,7 @@ Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswert
 <small>(übernommen von [spreerecht.de](http://rechtsanwalt-schwenke.de/piwik-als-alternative-zu-google-analytics-mit-datenschutzmuster/))</small>
 
 <iframe style="border: 0; height: 200px; width: 100%;" src="https://chkania.net/piwik/index.php?module=CoreAdminHome&action=optOut&language=de"></iframe>
+{% endcomment %}
 
 ### Datenschutzerklärung für die Nutzung von Google Analytics
 
