@@ -16,7 +16,7 @@ Höhrather Str. 11<br/>
 </address>
 
 ### Kontakt:
-<address>Telefon: 	+49 1579 3508773<br/>
+<address>Telefon: 	0211-58001589<br/>
 E-Mail: 	info@werstener-biene.de</address>
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
