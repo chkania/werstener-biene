@@ -6,9 +6,24 @@ Header set Cache-Control "private, no-cache, no-store, proxy-revalidate, no-tran
 Header set Pragma "no-cache"
 </FilesMatch>
 
-<FilesMatch "\.(html|ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
-Header set Cache-Control "max-age=36000, must-revalidate"
-</FilesMatch>
+<FilesMatch "\.(gif|flv|jpg|jpeg|png|gif|swf)$">
+        FileETag -INode MTime Size
+         # if you use ETags, you should unset Last-Modified
+        Header unset Last-Modified
+        Header set Cache-Control "max-age=86400, public, must-revalidate"
+        Header set Expires "Sun, 31 Dec 2017 20:00:00 GMT"
+    </FilesMatch>
+
+    <FilesMatch "\.(htm|html|php)$">
+        FileETag None
+        Header set Cache-Control "max-age=86400, public, must-revalidate"
+    </FilesMatch>
+
+    <FilesMatch "\.(js|css)$">
+        FileETag None
+        Header set Cache-Control "max-age=604800, public, must-revalidate"
+        Header set Expires "Sun, 31 Dec 2017 20:00:00 GMT"
+    </FilesMatch>
 
 # HTTP(S) Stuff
 # Redirect all users except IE 5-8 & Android < 4 to HTTPS
