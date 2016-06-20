@@ -7,6 +7,7 @@ published: true
 categories:
 tags: [Honig, Bienenprodukte]
 language: de
+ogimage: /images/content/VirtuellesBrutnest_600.png
 mainimage: /images/content/VirtuellesBrutnest_1200.png
 excerpt: "Fast jeder Imker hat dies zum Ziel: volle Honigeimer. Bei aller Liebe zur Natur ist es doch erfreulich, leckeren Honig von den eigenen Bienen zu bekommen."
 ---
