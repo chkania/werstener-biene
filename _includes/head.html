@@ -27,7 +27,9 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:locale" content="de_DE" />
     <meta property="og:type" content="website" />
-    {% if page.mainimage  %}
+    {% if page.ogimage %}
+        <meta property="og:image"  content="{{ site.url }}{{ page.ogimage}}">
+    {% elsif page.mainimage %}
         <meta property="og:image"  content="{{ site.url }}{{ page.mainimage}}">
     {% endif %}
     {% if page.excerpt %}
