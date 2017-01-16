@@ -80,4 +80,4 @@ Konflikte entstehen im Wesentlichen durch falsche Informationen, weil Menschen A
 
 Sollten dennoch Unklarheiten oder Bedenken bestehen, suchen Sie bitte immer zunächst das persönliche [Gespräch](/legal/kontakt.html){: class="nolinkicon"}. Haben Sie Fragen oder möchten Sie sich einen Eindruck verschaffen: Kommen Sie vorbei. Honig gibt es aber leider erst im kommenden Jahr 2016.
 
-<img  class="img-responsive" style="max-width:300px" src="/images/content/signatur.png">
+<img alt="Christoph Kania" class="img-responsive" style="max-width:300px" src="/images/content/signatur.png">
