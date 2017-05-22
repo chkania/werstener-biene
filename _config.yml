@@ -1,0 +1,35 @@
+# Site settings
+title: Werstener Biene
+email: blog@werstener-biene.de
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://werstener-biene.de" # the base hostname & protocol for your site
+# destination: /var/www/virtual/skyb/werstener-biene.de/
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+# Sitemap seetings
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+        - "/rss.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+# RSS settings
+name: Werstener Biene
+description: Honigbienen im Süden Düsseldorfs
+author: Christoph Kania
+
+exclude: ["*.bak", "*.old*", "*.orig", ".*", "*.sh", "nosyncfiles.txt", "s3copy.txt", "asciibee.txt"]

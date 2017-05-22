@@ -5,4 +5,4 @@ stylesheets
 *.bak
 *.old
 *.orig
-/_config.yml
+.DS_Store
