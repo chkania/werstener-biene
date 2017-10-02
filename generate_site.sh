@@ -15,7 +15,7 @@ trap prompt SIGINT
 
 function s3copy {
     cat s3copy.txt | while read line; do
-        s3cmd --acl-public --cf-invalidate put "/home/skyb/werstener-biene/_site/$line" "s3://werstener-biene/$line"
+        s3cmd --acl-public --cf-invalidate put "/home/werbiene/werstener-biene/_site/$line" "s3://werstener-biene/$line"
     done
 }
 
@@ -38,7 +38,7 @@ while true;
      3)
         echo "---------------------------------"
         echo "Aktualisiere lokale Inhalte …"
-        rsync -rctv --delete --exclude nosyncfiles.txt /home/skyb/werstener-biene/_site/ /var/www/virtual/skyb/werstener-biene.de/
+        rsync -rctv --delete --exclude nosyncfiles.txt /home/webiene/werstener-biene/_site/ /var/www/virtual/werbiene/werstener-biene.de/
         echo "---------------------------------"
         ;;
     4)
@@ -55,4 +55,3 @@ while true;
    esac
    prompt
   done
-
