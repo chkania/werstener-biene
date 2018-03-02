@@ -32,10 +32,10 @@
                 <div class="col-xs-10 col-xs-offset-2">
                     <div class="text-right text-muted">
                         <i class="fa fa-calendar-o"></i> Veröffentlicht am {{ page.date | date:"%d.%m.%Y" }}
-                    {% if page.readingtime != false or !page.noreadingtime %}
+                    {% if page.readingtime != false %}
                         <br/><i class="fa fa-fw fa-clock-o"></i> Durchschnittliche Lesezeit: {{ page.content | reading_time }}
                     {% endif %}
-                    {% if page.printpage != false or !page.printpage %}
+                    {% if page.printpage != false %}
                         <br/><button class="btn btn-link btn-xs pull-right text-muted" onClick="window.print()"><div class="text-muted"><i class="fa fa-fw fa-print"></i>Diese Seite drucken</div></button><br/>
                     {% endif %}
                     </div>
