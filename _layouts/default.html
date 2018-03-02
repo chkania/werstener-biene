@@ -31,10 +31,10 @@
             <div class="row printbutton" id="readingtime">
                 <div class="col-xs-10 col-xs-offset-2">
                     <div class="text-right text-muted">
-                    {% if page.readingtime != false or !page.noreadingtime %}
+                    {% if page.readingtime != false %}
                         <i class="fa fa-fw fa-clock-o"></i> Durchschnittliche Lesezeit: {{ page.content | reading_time }}<br/>
                     {% endif %}
-                    {% if page.printpage != false or !page.printpage %}
+                    {% if page.printpage != false %}
                         <button class="btn btn-default btn-xs pull-right text-muted" onClick="window.print()"><div class="text-muted"><i class="fa fa-fw fa-print"></i>Diese Seite drucken</div></button><br/>
                     {% endif %}
                     </div>
