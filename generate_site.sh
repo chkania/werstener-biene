@@ -38,7 +38,7 @@ while true;
      3)
         echo "---------------------------------"
         echo "Aktualisiere lokale Inhalte …"
-        rsync -rctv --delete --exclude nosyncfiles.txt /home/werbiene/blog/werstener-biene/_site /home/werbiene/html
+        rsync -rctv --delete --exclude nosyncfiles.txt /home/werbiene/blog/werstener-biene/_site/ /home/werbiene/html
         echo "---------------------------------"
         ;;
     4)
