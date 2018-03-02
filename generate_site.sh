@@ -1,6 +1,6 @@
 #!/bin/bash
 cat asciibee.txt
-cd /home/skyb/werstener-biene
+cd /home/werbiene/blog/werstener-biene
 
 prompt() {
     echo "Was willst Du tun?"
@@ -49,6 +49,10 @@ while true;
         echo "---------------------------------"
         ;;
     0)
+        echo "quit"
+        exit 1
+        ;;
+    q)
         echo "quit"
         exit 1
         ;;
