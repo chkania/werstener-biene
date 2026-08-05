@@ -9,3 +9,4 @@ _config_beta.yml
 scripts/axe-scan
 *.example
 forms/
+.DS_Store
