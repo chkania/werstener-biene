@@ -1,0 +1,8 @@
+http://localhost:4000/index.html
+http://127.0.0.1:4000/schwarm_gefunden/
+http://127.0.0.1:4000/imkern_in_der_stadt/
+http://127.0.0.1:4000/seiten/kontakt.html
+http://127.0.0.1:4000/seiten/impressum.html
+http://127.0.0.1:4000/seiten/datenschutz.html
+http://127.0.0.1:4000/honig/2025/11/25/goldmedaile-fuer-meinen-honig.html
+http://127.0.0.1:4000/imkerei/2025/10/12/fachkundenachweis-wespen.html

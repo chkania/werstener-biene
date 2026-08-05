@@ -1,0 +1,14 @@
+{
+    "axeCoreTags": [
+        "wcag2a",
+        "wcag2aa",
+        "wcag21a",
+        "wcag21aa"
+    ],
+    "resultTypes": [
+        "incomplete",
+        "violations"
+    ],
+    "filePath": "./urls.txt",
+    "locale": "en"
+}

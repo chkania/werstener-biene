@@ -6,7 +6,7 @@ vendor
 node_modules
 forms/smtp_config.json
 _config_beta.yml
-scripts/axe-scan
+scripts/axe-scan/result.txt
 *.example
 forms/
 .DS_Store
