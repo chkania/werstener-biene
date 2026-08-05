@@ -1,0 +1,44 @@
+<!-- Tags Widget -->
+          {% assign rawtags = "" %}
+          {% for post in site.posts %}
+          {% if post.tags.size > 0 %}
+          {% assign post_tags = post.tags | join:'|' | append:'|' %}
+          {% assign rawtags = rawtags | append:post_tags %}
+          {% endif %}
+          {% endfor %}
+      
+          <!-- cycles through pages to get tags -->
+          {% for page in site.pages %}
+          {% if page.tags.size > 0 %}
+          {% assign page_tags = page.tags | join:'|' | append:'|' %}
+          {% assign rawtags = rawtags | append:page_tags %}
+          {% endif %}
+          {% endfor %}
+
+          {% assign tags = rawtags | split:'|' | sort | uniq %}
+
+          {% if tags.size > 0 %}
+          <div class="tags-widget widget-item">
+
+            <h3 class="widget-title">
+              {% if tags.size == 1 %}
+              Tag
+              {% else %}
+              Tags
+              {% endif %}
+            </h3>
+
+            
+
+
+            <div class="tag-list">
+              <ul>
+                {% for tag in tags %}
+                  <li><a href="{% unless 'Tags' == page.title %}{{ site.baseurl }}/tags{% endunless %}#{{ tag | cgi_escape }}">
+                    {{ tag }}
+                  </a></li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div><!--/Tags Widget -->
+          {% endif %}

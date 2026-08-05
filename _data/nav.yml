@@ -1,0 +1,12 @@
+- title: Startseite
+  url: /
+- title: Informationen
+  sublinks:
+    - title: Schwarm gefunden
+      url: /schwarm_gefunden/
+    - title: Imkern in der Stadt
+      url: /imkern_in_der_stadt/
+    - title: Informationen für Nachbarn
+      url: /informationen_fuer_nachbarn/
+- title: Blog
+  url: /blog/

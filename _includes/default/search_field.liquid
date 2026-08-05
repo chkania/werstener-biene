@@ -1,0 +1,23 @@
+<!-- Search Widget -->
+          <div class="search-widget widget-item">
+
+            <h3 class="widget-title">Suche</h3>
+            <form action="">
+              <input type="text" id="search-input" placeholder="Ihre Suche ..." class="bi bi-search" autofocus>
+            </form>
+            <br/>
+            <ul id="results-container"></ul>
+            <script type="text/javascript">
+              SimpleJekyllSearch({
+                  searchInput: document.getElementById('search-input'),
+                  resultsContainer: document.getElementById('results-container'),
+                  json: '{{ "/assets/search/search.json" | relative_url }}',
+                  searchResultTemplate: '<div class="search-title"><a aria-label="Aufruf des Suchergebnisses {title}" href="{url}"><h4> {title}</h4></a><div class="meta"> <div class="right"><i class="fas fa-tag"></i> {tags}</div></div><p>{excerpt}</p></div><hr> ',
+                  noResultsText: '{{ site.data.language.str_no_result_found | default: "Kein Suchergebnis gefunden" }}',
+                  limit: 10,
+                  fuzzy: false,
+                  exclude: []
+              })
+          </script>
+            
+          </div><!--/Search Widget -->

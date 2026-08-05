@@ -1,0 +1,14 @@
+<!-- Recent Posts Widget 2 -->
+          <div class="recent-posts-widget-2 widget-item">
+
+            <h3 class="widget-title">Aktuelle Blogeinträge</h3>
+
+            {% for post in site.posts limit: 5 %}
+            <div class="post-item">
+              <h4><a aria-label="Aufruf des Blogbeitrages {{ post.title }}" href="{{ post.url }}">{{ post.title }}</a></h4>
+              <time datetime="{{ post.date | date: '%Y-%m-%d'}}">{{ post.date | date: "%d.%m.%Y"}}</time>
+            </div><!-- End recent post item-->
+    
+            {% endfor %}
+
+          </div><!--/Recent Posts Widget 2 -->

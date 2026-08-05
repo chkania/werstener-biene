@@ -1,0 +1,95 @@
+---
+layout: default
+body_class: contact-page
+title: Kontakt
+title_image: /assets/img/page-title-bg.webp
+---
+
+   
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      {% if site.contact.show-map %}
+      <div class="mb-5">
+        <iframe style="width: 100%; height: 400px;" src="{{ site.contact.google-maps-url }}" frameborder="0" allowfullscreen=""></iframe>
+      </div><!-- End Google Maps -->
+      {% endif %}
+
+      <div class="container" data-aos="fade">
+
+        <div class="row gy-5 gx-lg-5">
+
+          <div class="col-lg-4">
+
+            <div class="info">
+              <h3>Kontaktieren Sie mich</h3>
+              <p>… wenn Sie eine Frage haben oder Honig kaufen   möchten.</p>
+
+              <div class="info-item d-flex">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h4>Adresse:</h4>
+                  <p>Anja Kania, Höhrather Str. 11, 40591 Düsseldorf</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h4>E-Mail:</h4>
+                  <p>info@werstener-biene.de</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex">
+                <i class="bi bi-phone flex-shrink-0"></i>
+                <div>
+                  <h4>Telefon:</h4>
+                  <p>0175-2222736</p>
+                </div>
+              </div><!-- End Info Item -->
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-8">
+            <form action="/forms/contact.php" method="post" role="form" class="php-email-form">
+              <!-- Honeypot — hidden from humans, bots will fill it -->
+              <div style="position:absolute;left:-9999px;" aria-hidden="true">
+                <input type="text" name="website" tabindex="-1" autocomplete="off">
+              </div>
+              <input type="hidden" name="loaded_at" id="loaded_at">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Ihr Name" required="">
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Ihre E-Mail-Adresse" required="">
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Betreff" required="">
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" placeholder="Nachricht" required=""></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Abschicken</button></div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+    <script>document.getElementById('loaded_at').value = Math.floor(Date.now()/1000);</script>
+
+    {% include default/newsletter-cto.liquid %}

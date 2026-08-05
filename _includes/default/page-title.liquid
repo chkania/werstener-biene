@@ -1,0 +1,21 @@
+{% assign page_title =  page.title %}
+{% assign title_image = page.title_image %}
+{% assign sub_line = page.sub_line %}
+<!-- Page Title -->
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url({{ title_image }});">
+      <div class="container position-relative">
+        <h1>{{ page_title }}</h1>
+        {% if sub_line %}
+        <p>{{ sub_line }}</p>
+        {% endif %}
+        {% comment %}
+        <nav class="breadcrumbs">
+          <ol>
+            <li><a href="/index.html">Home</a></li>
+            <li class="current">{{ page_title }}</li>
+          </ol>
+        </nav>
+        {% endcomment %}
+      </div>
+    </div>
+  <!-- End Page Title -->

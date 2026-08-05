@@ -1,0 +1,11 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+node_modules
+forms/smtp_config.json
+_config_beta.yml
+scripts/axe-scan
+*.example
+forms/

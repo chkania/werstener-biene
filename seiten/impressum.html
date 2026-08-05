@@ -1,0 +1,64 @@
+---
+layout: default
+body_class: contact-page
+title: Impressum
+title_image: /assets/img/page-title-bg.webp
+---
+
+   
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      {% if site.contact.show-map %}
+      <div class="mb-5">
+        <iframe style="width: 100%; height: 400px;" src="{{ site.contact.google-maps-url }}" frameborder="0" allowfullscreen=""></iframe>
+      </div><!-- End Google Maps -->
+      {% endif %}
+
+      <div class="container" data-aos="fade">
+
+        <div class="row gy-5 gx-lg-5">
+
+          <div class="col-lg-6">
+
+            <div class="info">
+              <h3>Inhaberin der Seite:</h3>
+              <div class="info-item d-flex">
+              <p>Anja Kania<br/>
+                 Höhrather Str. 11<br/>
+                 40591 Düsseldorf<br/>
+                 0175-2222736<br/>
+                 <a href="mailto:info@werstener-biene.de">info@werstener-biene.de</a></p>
+                 </div><!-- End Info Item -->
+
+            </div>
+
+          </div>
+
+          <div class="col-lg-6">
+
+            <div class="info">
+              <h3>Verantwortlich für den Inhalt:</h3>
+              <div class="info-item d-flex">
+              
+                 <p>Anja Kania<br/>
+                 Höhrather Str. 11<br/>
+                 40591 Düsseldorf<br/>
+                 <a href="mailto:info@werstener-biene.de">info@werstener-biene.de</a><br/>
+                &nbsp;</p>
+              </div><!-- End Info Item -->
+
+            </div>
+
+          </div>
+
+          
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+
+    {% include default/newsletter-cto.liquid %}

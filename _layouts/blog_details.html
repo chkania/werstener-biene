@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include default/head.liquid %}
+
+<body class="{{ body_class }}">
+
+  {% include default/navheader.liquid %}
+
+  <main class="main">
+
+  {% include default/page-title.liquid  %}
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-8">
+
+        <!-- Blog Details Section -->
+        <section id="blog-details" class="blog-details section">
+          <div class="container">
+
+            <article class="article">
+
+              {% if page.content_start_image %}
+              <div class="post-img">
+                <img src="{{ page.content_start_image }}" alt="" class="img-fluid">
+              </div>
+              {% endif %}
+
+              <h2 class="title">{{ page.content_title }}</h2>
+
+              <div class="meta-top">
+                
+                {% assign reading_time = content | number_of_words | divided_by: 180 %}
+                <ul>
+                  <li class="d-flex align-items-center meta"><i class="bi bi-calendar3"></i><time datetime="{{ page.date | date: '%Y-%m-%d'}}">{{ page.date | date: "%d.%m.%Y"}}</time></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>Lesezeit: ca. 
+                  {% if reading_time > 1 %}
+                  {{ reading_time }} Minuten
+                  {% else %}
+                  eine Minute
+                  {% endif %}
+                </ul>
+              </div><!-- End meta top -->
+
+              <div class="content">
+                
+                {{ content }}
+
+              </div><!-- End post content -->
+
+            </article>
+
+          </div>
+        </section><!-- /Blog Details Section -->        
+
+      </div>
+
+      <div class="col-lg-4 sidebar">
+
+        <div class="widgets-container">
+
+          {% include default/search_field.liquid %}
+
+          {% include default/recent_blog_posts.liquid %}
+
+          {% include default/tag_list.liquid %}
+
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  </main>
+
+  {% include default/footer.liquid %}
+
+</body>
+
+</html>

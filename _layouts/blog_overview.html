@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include default/head.liquid %}
+
+<body class="blog-page">
+
+  {% include default/navheader.liquid %}
+
+  {% include default/page-title.liquid  %}
+
+  
+    <!-- Blog Posts Section -->
+    <section id="blog-posts-2" class="blog-posts-2 section">
+
+      <div class="container">
+        <div class="row gy-4">
+
+          {% for post in paginator.posts %}
+          <div class="col-lg-4">
+            <article class="position-relative h-100">
+
+              {% if post.teaser_image %}
+              <div class="post-img position-relative overflow-hidden">
+                {% picture startseite_recent_posts {{ post.teaser_image }} --alt Teaser Bild %}
+              </div>
+              {% endif %} 
+
+              <div class="meta d-flex align-items-end">
+                <span class="post-date">{{ post.date | date: "%d.%m.%Y"}}</span>
+              </div>
+
+              <div class="post-content d-flex flex-column">
+
+                <h3 class="post-title">{{ post.title }}</h3>
+              
+                <a aria-label="Aufruf des Blogbeitrags {{ post.title }}" href="{{ post.url }}" class="readmore stretched-link"><span>Lesen</span><i class="bi bi-arrow-right"></i></a>
+
+              </div>
+
+            </article>
+          </div><!-- End post list item -->
+          {% endfor %}
+
+        </div>
+      </div>
+
+    </section><!-- /Blog Posts Section -->
+    
+    <!-- Blog Pagination Section -->
+    <section id="blog-pagination" class="blog-pagination section">
+
+      {% if paginator.total_pages > 1 %}
+      <div class="container">
+        <div class="d-flex justify-content-center">
+          <ul>
+            {% if paginator.previous_page %}
+            <li><a href="{{ paginator.previous_page_path }}" aria-label="Vorherige Seite"><i class="bi bi-chevron-left"></i></a></li>
+            {% endif %}
+
+            {% for part in paginator.page_trail %}
+              {% assign trail_path = part.path | remove: '/index.html' | append: '/' %}
+              {% if part.num == paginator.page %}
+              <li><a href="{{ trail_path }}" class="active" aria-current="page">{{ part.num }}</a></li>
+              {% else %}
+              <li><a href="{{ trail_path }}">{{ part.num }}</a></li>
+              {% endif %}
+            {% endfor %}
+
+            {% if paginator.next_page %}
+            <li><a href="{{ paginator.next_page_path }}" aria-label="Nächste Seite"><i class="bi bi-chevron-right"></i></a></li>
+            {% endif %}
+          </ul>
+        </div>
+      </div>
+      {% endif %}
+
+    </section><!-- /Blog Pagination Section -->
+    
+    
+    {% include default/footer.liquid %}
+
+</body>
+
+</html>

@@ -1,0 +1,50 @@
+presets:
+  default:
+    formats: [webp, original]
+    widths: [200, 400, 800, 1200]
+    fallback_width: 1200
+    link_source: false
+    format_quality:
+      webp: 75
+      avif: 30
+      jp2: 30
+      jpg: 75
+
+  blogpost:
+    formats: [webp, original]
+    widths: [150, 300, 450]
+    fallback_width: 450
+    link_source: false
+    nomarkdown: false
+    format_quality:
+      webp: 75
+      avif: 30
+      jp2: 30
+      jpg: 75
+    attributes:
+      img: 'class="img-responsive img-fluid"'
+
+  startseite:
+    formats: [webp, original]
+    widths: [300, 650, 1000]
+    fallback_width: 1000
+    link_source: false
+    nomarkdown: false
+    attributes:
+      img: 'class="img-responsive img-fluid"'
+
+  startseite_recent_posts:
+    formats: [webp, original]
+    widths: [200, 416, 768]
+    fallback_width: 768
+    link_source: false
+    nomarkdown: false
+    attributes:
+      img: 'class="img-responsive img-fluid" width="416"'
+
+  carousel:
+    formats: [webp, original]
+    widths: [800, 1200, 1900, 2400]
+    fallback_width: 2400
+    link_source: false
+    

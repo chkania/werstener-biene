@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="de">
+
+{% include default/head.liquid %}
+
+<body class="{{ body_class }}">
+
+  {% include default/navheader.liquid %}
+
+  <main class="main">
+
+  {% include default/page-title.liquid  %}
+
+  {{ content }}
+
+  </main>
+
+  {% include default/footer.liquid %}
+
+</body>
+
+</html>

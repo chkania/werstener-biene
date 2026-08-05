@@ -1,0 +1,59 @@
+{% comment %}
+https://gist.github.com/pdarragh/c7ca120604c1a1d8b8de
+{% endcomment %}
+{% for entry in site.data.nav %}
+{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
+    {% if fullurl == page.url %}
+        {% assign current_page = fullurl %}
+        {% break %}
+    {% elsif page.url contains fullurl %}
+        {% assign current_page = fullurl %}
+    {% endif %}
+{% endfor %}
+
+
+<header id="header" class="header d-flex align-items-center position-relative">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="/" class="logo d-flex align-items-center">
+        <!-- Uncomment the line below if you also wish to use an image logo -->
+        <!-- <img src="/assets/img/logo.png" alt="AgriCulture"> -->
+        <h1 class="sitename">Werstener Biene – Honig aus dem Süden Düsseldorfs</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+
+    {% for entry in site.data.nav %}
+        {% if entry.url == current_page %}
+            {% assign current = ' class="active"' %}
+        {% else %}
+            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+            {% assign current = null %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+            <li class="dropdown">
+                <a{% if entry.url %} href="{{ site.baseurl }}{{ entry.url }}"{% else %} href="#"{% endif %} aria-label="Aufruf des Navigationselementes {{ entry.title }}">
+                    <span>{{ entry.title }}</span>
+                    <i class="bi bi-chevron-down toggle-dropdown"></i>
+                </a>
+            <ul>
+                {% for sublink in sublinks %}
+                <li><a aria-label="Aufruf des Navigationselementes {{ sublink.title }}" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endfor %}
+            </ul>
+          </li>
+        
+        {% else %}
+        <li><a aria-label="Aufruf des Navigationselementes {{ entry.title }}" {{ current }} href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+
+          
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>

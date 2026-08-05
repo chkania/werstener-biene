@@ -1,0 +1,104 @@
+.blog-details .content blockquote {
+  text-align: left;
+}
+
+.blog-details .content a {
+  color: var(--link-color);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+.blog-details .content a:hover {
+  color: var(--link-hover-color);
+  text-decoration-thickness: 2px;
+}
+
+.blog-details .content a:focus-visible {
+  outline: 2px solid var(--link-color);
+  outline-offset: 2px;
+}
+
+.blog-details .content a[href^="http"]::after {
+  content: "\f1c5";
+  font-family: "bootstrap-icons" !important;
+  font-size: 0.75em;
+  margin-left: 4px;
+  vertical-align: -0.125em;
+}
+
+.about-3 .row > .position-relative picture {
+  display: block;
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.recent-posts .post-item {
+  max-width: 85%;
+  margin: 0 auto;
+}
+
+.imagecenter  {
+  font-size: 0.7em;
+  font-style: italic;
+  text-align: center;
+  margin: auto;
+  line-height: 1.3em;
+}
+
+.imageleft  {
+  font-size: 0.7em;
+  font-style: italic;
+  text-align: center;
+  float: left;
+  margin-right: 20px;
+  line-height: 1.3em;
+}
+
+.imageright  {
+  font-size: 0.7em;
+  font-style: italic;
+  text-align: center;
+  float: right;
+  margin-left: 20px;
+  line-height: 1.3em;
+}
+
+.meta-top li {
+  font-size: 14px;
+}
+
+.blog-details .article {
+  padding-top: 20px;
+}
+
+.blog-details .title {
+  margin-top: 0px;
+}
+
+.contact .info h4 {
+  font-weight: 600;
+  font-size: 1.35rem;
+}
+
+  /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
+:root { 
+  --background-color: #fff7ed; /* Background color for the entire website, including individual sections */
+  --default-color: #212529; /* Default color used for the majority of the text content across the entire website */
+  --heading-color: #6E4907; /* Color for headings, subheadings and title throughout the website */
+  --accent-color: #543705; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --link-color: #B45309; /* Link color for content links, clearly distinguishable from the body text */
+  --link-hover-color: #92400E; /* Darker shade of the link color on hover */
+  --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
+  --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
+}
+
+/* Nav Menu Colors - The following color variables are used specifically for the navigation menu. They are separate from the global colors to allow for more customization options */
+:root {
+  --nav-color: #212529;  /* The default color of the main navmenu links */
+  --nav-hover-color: #6E4907; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
+  --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
+  --nav-dropdown-color: #212529; /* Used for navigation links of the dropdown items in the navigation menu. */
+  --nav-dropdown-hover-color: #6E4907; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+}
